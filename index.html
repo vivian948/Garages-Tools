@@ -8,7 +8,11 @@
 <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet"/>
 <style>
 *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
-html,body{background:#0a0a0a;color:#f0ede8;font-family:'DM Sans',sans-serif;min-height:100vh;overflow-x:hidden}
+html,body{background:#0a0a0a;color:#f0ede8;font-family:'DM Sans',sans-serif;min-height:100vh;overflow-x:hidden;-webkit-text-size-adjust:100%}
+/* iOS safe areas */
+.app-header{padding-left:max(18px,env(safe-area-inset-left));padding-right:max(18px,env(safe-area-inset-right))}
+.tab-bar{padding-left:env(safe-area-inset-left);padding-right:env(safe-area-inset-right)}
+.tab-pane{padding-bottom:max(16px,env(safe-area-inset-bottom))}
 :root{
   --bg:#0a0a0a;--bg2:#111;--bg3:#181818;--bg4:#202020;
   --bd:#272727;--bd2:#333;
@@ -82,7 +86,7 @@ html,body{background:#0a0a0a;color:#f0ede8;font-family:'DM Sans',sans-serif;min-
 .tab-bar::-webkit-scrollbar{display:none}
 .tbtn{background:none;border:none;border-bottom:2px solid transparent;font-family:'DM Sans',sans-serif;font-size:.78rem;font-weight:500;color:#6b6866;padding:11px 14px;cursor:pointer;white-space:nowrap;margin-bottom:-1px;transition:color .15s,border-color .15s;flex-shrink:0}
 .tbtn.on{color:#e8500a;border-bottom-color:#e8500a}
-.tab-pane{display:none;padding:16px;flex:1;overflow-y:auto}
+.tab-pane{display:none;padding:16px;flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;overscroll-behavior:contain}
 .tab-pane.on{display:block}
 
 /* ── DASHBOARD STRIP ── */
@@ -220,10 +224,10 @@ html,body{background:#0a0a0a;color:#f0ede8;font-family:'DM Sans',sans-serif;min-
 .add-li:hover{color:#f0ede8;border-color:#e8500a}
 
 /* ── MODAL ── */
-.overlay{position:fixed;inset:0;z-index:200;display:flex;align-items:flex-end;background:rgba(0,0,0,.8);backdrop-filter:blur(4px)}
+.overlay{position:fixed;inset:0;z-index:200;display:flex;align-items:flex-end;background:rgba(0,0,0,.85);-webkit-overflow-scrolling:touch}
 .overlay.center{align-items:center;justify-content:center;padding:20px}
-.mbox{background:#111;border:1px solid #333;border-radius:16px 16px 0 0;width:100%;max-width:640px;margin:0 auto;max-height:92vh;overflow-y:auto}
-.overlay.center .mbox{border-radius:14px;max-width:440px}
+.mbox{background:#111;border:1px solid #333;border-radius:16px 16px 0 0;width:100%;max-width:640px;margin:0 auto;max-height:92vh;overflow-y:auto;-webkit-overflow-scrolling:touch;overscroll-behavior:contain;padding-bottom:env(safe-area-inset-bottom,0px)}
+.overlay.center .mbox{border-radius:14px;max-width:440px;padding-bottom:0}
 .mhd{display:flex;align-items:center;justify-content:space-between;padding:14px 18px;border-bottom:1px solid #272727;position:sticky;top:0;background:#111;z-index:1}
 .mhd h3{font-family:var(--dp);font-size:.96rem;font-weight:700}
 .mclose{background:#181818;border:1px solid #272727;color:#6b6866;width:26px;height:26px;border-radius:50%;cursor:pointer;font-size:.78rem;display:flex;align-items:center;justify-content:center}
@@ -258,16 +262,136 @@ html,body{background:#0a0a0a;color:#f0ede8;font-family:'DM Sans',sans-serif;min-
 .settings-wrap{max-width:500px}
 .save-ok{margin-top:12px;padding:10px;background:#0a2010;border:1px solid #1a4020;border-radius:9px;font-size:.78rem;color:#22c55e}
 
+/* ══════════════════════════════════════
+   MOBILE — 640px and below
+══════════════════════════════════════ */
 @media(max-width:640px){
+
+  /* HOME */
+  .home-title{font-size:2.1rem}
+  .home-inner{padding:0 16px}
+  .home-hero{padding:36px 0 24px;gap:14px}
+  .home-card{padding:22px 18px}
+  .home-nav{padding:18px 0 0}
+  .home-pill{display:none}
+
+  /* APP HEADER — compact, sticky */
+  .app-header{height:50px;padding:0 14px;position:sticky;top:0;z-index:60}
+  .back-btn{padding:6px 10px;font-size:.72rem;min-height:36px}
+  .app-logo-nm{font-size:.84rem}
+  #appHeaderBtn .btn{min-height:36px;padding:7px 12px;font-size:.74rem}
+
+  /* DASHBOARD — 2x2 grid on mobile */
+  .dash-strip{position:sticky;top:50px;z-index:55;background:#0a0a0a}
   .dash-stats{grid-template-columns:repeat(2,1fr)}
   .ds:nth-child(2){border-right:none}
   .ds:nth-child(3){border-top:1px solid #272727}
   .ds:nth-child(4){border-top:1px solid #272727;border-right:none}
-  .form-row{flex-wrap:wrap}
-  .ff{min-width:calc(50% - 5px)}
-  .tab-pane{padding:12px}
-  .kanban{gap:10px}
-  .home-title{font-size:2.3rem}
+  .ds{padding:8px 12px}
+  .ds-v{font-size:.86rem}
+  .ds-l{font-size:.5rem}
+  .dash-week{padding:8px 14px}
+  .wk-lbl{font-size:.66rem}
+  .wk-btn{width:32px;height:32px;font-size:1rem}
+
+  /* TAB BAR — sticky below dash, scrollable, 44px tap targets */
+  .tab-bar{position:sticky;top:160px;z-index:50;-webkit-overflow-scrolling:touch;background:#0a0a0a}
+  .tbtn{padding:13px 12px;font-size:.74rem;min-height:46px;min-width:60px}
+
+  /* PANES — breathable padding */
+  .tab-pane{padding:12px 12px 80px 12px}
+
+  /* KANBAN — always single column on mobile */
+  .kanban{gap:10px;display:flex;flex-direction:column}
+  .kcard-acts{gap:5px;flex-wrap:wrap}
+  .kbtn{padding:8px 10px;font-size:.72rem;min-height:38px;flex:1;text-align:center}
+  .kcard{padding:12px}
+  .kcard-nm{font-size:.9rem}
+  .kcard-am{font-size:.96rem}
+
+  /* FORMS — all fields full width on mobile */
+  .form-row{flex-direction:column;gap:10px}
+  .ff{min-width:100%;width:100%}
+  .ff input,.ff select,.ff textarea{font-size:1rem;padding:11px 12px;min-height:46px}
+  .ff textarea{min-height:80px}
+  .add-li{padding:12px;font-size:.84rem;min-height:46px}
+
+  /* MODALS — proper bottom sheet */
+  .overlay{align-items:flex-end}
+  .mbox{max-height:96vh;border-radius:20px 20px 0 0;padding-bottom:env(safe-area-inset-bottom,0)}
+  .mbody{padding:16px;gap:13px}
+  .mhd{padding:16px 16px 12px}
+  .mhd h3{font-size:1rem}
+  .macts{flex-direction:column;gap:8px}
+  .macts .btn{min-height:50px;font-size:.88rem;width:100%;justify-content:center}
+
+  /* BUTTONS — big enough to tap easily */
+  .btn{min-height:42px;padding:9px 14px;font-size:.82rem}
+  .btn-sm{min-height:38px;padding:8px 12px;font-size:.78rem}
+
+  /* JOBS */
+  .jc-fins{gap:8px;padding-top:9px}
+  .fin-v{font-size:.84rem}
+  .jc-btn{min-height:38px;padding:8px 10px;font-size:.74rem;flex:1;text-align:center}
+  .jc-acts{gap:6px}
+  .job-card{padding:13px}
+
+  /* ADS */
+  .ad-card{padding:12px}
+  .icon-btn{width:38px;height:38px;font-size:.92rem}
+
+  /* INVOICES */
+  .inv-card{padding:13px}
+  .inv-r{gap:5px}
+
+  /* SUMMARY */
+  .sum-row{padding:10px 12px;font-size:.84rem}
+  .sum-row.tot{font-size:.9rem}
+  .week-block,.month-block{padding:13px}
+  .week-block-tt{font-size:.86rem}
+  .week-block-dt{font-size:.68rem}
+
+  /* CUSTOMERS */
+  .cust-card{padding:13px}
+  .cust-info{grid-template-columns:1fr 1fr;gap:10px}
+  .cust-val{font-size:.8rem}
+  .cust-nm{font-size:.94rem}
+
+  /* VIEW MODAL */
+  .vrow{padding:11px 13px}
+  .vtot{padding:10px 13px}
+  .vacts{flex-direction:column;gap:7px}
+  .vacts .btn{width:100%;min-height:48px;font-size:.86rem;justify-content:center}
+
+  /* LINE ITEMS */
+  .li-item{padding:8px}
+  .li-q{width:32px}
+  .li-u{width:52px}
+  .li-t{width:52px}
+
+  /* SETTINGS */
+  .settings-wrap{max-width:100%}
+
+  /* SECTION HEADS */
+  .sec-hd{margin-bottom:11px}
+  .sec-tt{font-size:.88rem}
+
+  /* TOAST — above browser nav bar */
+  #toast{bottom:32px;font-size:.78rem;padding:9px 18px}
+}
+
+/* ══════════════════════════════════════
+   VERY SMALL PHONES (iPhone SE, small Android)
+══════════════════════════════════════ */
+@media(max-width:390px){
+  .home-title{font-size:1.85rem}
+  .tbtn{padding:12px 9px;font-size:.68rem;min-width:52px}
+  .kbtn{font-size:.66rem;padding:7px 7px}
+  .btn{font-size:.78rem}
+  .ds-v{font-size:.78rem}
+  .cust-info{grid-template-columns:1fr}
+  .dash-week{padding:7px 12px}
+  .wk-lbl{font-size:.62rem}
 }
 </style>
 </head>
