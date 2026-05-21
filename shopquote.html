@@ -541,11 +541,11 @@ function printQuote(id) {
 function markStatus(id, status) {
   const q=state.quotes.find(x=>x.id===id); if(!q) return;
   q.status=status;
-  if(status==='sent'){q.sentAt=tod();q.isInvoice=true}
+  if(status==='sent'){q.sentAt=tod();q.isInvoice=true;toast('Invoice sent ✓')}
   if(status==='paid'){
-    q.paidAt=tod();
-    // Auto-silently create job in Garage Tracker
+    q.paidAt=tod(); // Set BEFORE autoCreate so done date is correct
     autoCreateGTJob(q);
+    toast('✅ Paid! Job added to Garage Tracker');
   }
   save();
   closeModal('viewModal');
@@ -612,6 +612,7 @@ function render() {
               ${col.key==='sent'?`<button class="k-btn paid" onclick="markStatus('${q.id}','paid')">Mark Paid</button>`:''}
               <button class="k-btn" onclick="openView('${q.id}')">View</button>
               <button class="k-btn" onclick="openQuoteModal('${q.id}')">Edit</button>
+              ${col.key!=='paid'?`<button class="k-btn" style="color:var(--red);border-color:var(--red-border)" onclick="askDel('${q.id}')">Delete</button>`:''}
             </div>
           </div>`;
         }).join('')}
@@ -628,9 +629,11 @@ function render() {
           <div><div class="list-name">${esc(q.name)}</div><div class="list-meta">${esc(q.model||'')}${q.reg?' · '+esc(q.reg):''} · ${fmtD(q.date)}</div></div>
           <div class="list-right"><span class="badge ${bc}">${q.status}</span><span class="list-amount">${fmt(t.total)}</span></div>
         </div>
-        ${q.desc?`<div style="font-size:.76rem;color:var(--muted)">${esc(q.desc)}</div>`:''}
-      </div>`;
-    }).join('');
+        ${q.desc?`<div style="font-size:.76rem;color:var(--muted);margin-bottom:8px">${esc(q.desc)}</div>`:''}
+        ${q.status!=='paid'?`<div style="display:flex;gap:6px;margin-top:8px">
+          <button class="k-btn" style="color:var(--red);border-color:var(--red-border);border:1px solid;border-radius:5px;padding:5px;font-size:.7rem;cursor:pointer;background:var(--red-dim);flex:none;width:auto;padding:5px 10px" onclick="event.stopPropagation();askDel('${q.id}')">🗑 Delete</button>
+        </div>`:''}
+      </div>`;}).join('');
 
   // Invoices list
   const inv=state.quotes.filter(q=>q.isInvoice);
