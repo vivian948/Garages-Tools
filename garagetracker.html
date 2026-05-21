@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="en" style="background:#0a0a0a">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
+<meta name="theme-color" content="#0a0a0a"/>
+<title>Garage Tracker — ShopTrack</title>
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet"/>
+<style>
+*{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
+:root{
+  --bg:#0a0a0a;--bg2:#111;--bg3:#181818;--bg4:#202020;
+  --border:#272727;--border2:#333;
+  --text:#f0ede8;--muted:#6b6866;--muted2:#9a9795;
+  --orange:#e8500a;--orange-dim:#2a1508;--orange-border:#4a2010;
+  --green:#22c55e;--green-dim:#0a2010;--green-border:#1a4020;
+  --amber:#f59e0b;--amber-dim:#1a1200;--amber-border:#3a2800;
+  --red:#ef4444;--red-dim:#1a0808;--red-border:#3a1010;
+  --font:'DM Sans',sans-serif;--display:'Syne',sans-serif;--mono:'DM Mono',monospace;
+  --r:10px;
+}
+html,body{font-family:var(--font);color:var(--text);background:var(--bg);min-height:100vh;overflow-x:hidden}
+
+/* ── HEADER ── */
+.app-header{background:var(--bg);border-bottom:1px solid var(--border);padding:0 20px;height:54px;display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;z-index:50;gap:12px}
+.ah-left{display:flex;align-items:center;gap:10px}
+.back-btn{display:flex;align-items:center;gap:6px;background:var(--bg3);border:1px solid var(--border);border-radius:7px;padding:6px 11px;font-family:var(--font);font-size:.76rem;font-weight:500;color:var(--muted2);cursor:pointer;text-decoration:none;white-space:nowrap;transition:color .15s}
+.back-btn:hover{color:var(--text)}
+.ah-logo{display:flex;align-items:center;gap:7px}
+.ah-logo-mark{width:26px;height:26px;background:var(--orange);border-radius:6px;display:flex;align-items:center;justify-content:center;font-size:.85rem}
+.ah-title{font-family:var(--display);font-size:.92rem;font-weight:700}
+.btn{border:none;border-radius:7px;padding:7px 14px;font-family:var(--font);font-size:.78rem;font-weight:600;cursor:pointer;display:flex;align-items:center;gap:6px;white-space:nowrap}
+.btn-primary{background:var(--orange);color:#fff}
+.btn-ghost{background:var(--bg3);border:1px solid var(--border);color:var(--muted2)}
+.btn-ghost:hover{color:var(--text)}
+.btn-sm{padding:5px 11px;font-size:.73rem}
+
+/* ── WEEK NAV ── */
+.week-bar{background:var(--bg);border-bottom:1px solid var(--border)}
+.week-nav{display:flex;align-items:center;justify-content:space-between;padding:10px 18px;border-bottom:1px solid var(--border)}
+.wk-btn{background:var(--bg3);border:1px solid var(--border);color:var(--text);width:32px;height:32px;border-radius:7px;cursor:pointer;font-size:1.1rem;display:flex;align-items:center;justify-content:center;transition:border-color .15s}
+.wk-btn:hover{border-color:var(--border2)}
+.wk-label{font-family:var(--mono);font-size:.76rem;color:var(--muted);text-align:center}
+
+/* ── SUMMARY STRIP ── */
+.summary-strip{display:grid;grid-template-columns:repeat(4,1fr)}
+.ss{padding:10px 16px;border-right:1px solid var(--border)}
+.ss:last-child{border-right:none}
+.ss.hi{background:var(--bg2)}
+.ss-l{font-size:.56rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin-bottom:2px}
+.ss-v{font-family:var(--mono);font-size:.94rem;font-weight:500}
+.ss-v.g{color:var(--green)}.ss-v.r{color:var(--red)}
+
+/* ── TABS ── */
+.tab-bar{display:flex;background:var(--bg);border-bottom:1px solid var(--border);padding:0 20px;overflow-x:auto;scrollbar-width:none}
+.tab-bar::-webkit-scrollbar{display:none}
+.tab-btn{background:none;border:none;border-bottom:2px solid transparent;font-family:var(--font);font-size:.85rem;font-weight:500;color:var(--muted);padding:12px 16px;cursor:pointer;white-space:nowrap;margin-bottom:-1px;transition:color .15s,border-color .15s}
+.tab-btn.active{color:var(--orange);border-bottom-color:var(--orange)}
+.tab-pane{display:none;padding:20px}
+.tab-pane.active{display:block}
+
+/* ── JOB CARDS ── */
+.section-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:14px}
+.section-title{font-family:var(--display);font-size:.92rem;font-weight:700}
+.job-card{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:13px;margin-bottom:9px}
+.jc-top{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:5px}
+.jc-name{font-weight:600;font-size:.92rem}
+.jc-type{font-size:.6rem;background:var(--bg3);border:1px solid var(--border);border-radius:4px;padding:2px 7px;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;font-family:var(--mono)}
+.jc-dates{display:flex;justify-content:space-between;font-size:.76rem;color:var(--muted);margin-bottom:8px}
+.jc-fins{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;padding-top:9px;border-top:1px solid var(--border)}
+.fin{display:flex;flex-direction:column;gap:2px}
+.fin-l{font-size:.56rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.fin-v{font-family:var(--mono);font-size:.84rem}
+.jc-sub{font-size:.68rem;color:var(--muted);margin-top:5px}
+.jc-note{font-size:.74rem;color:var(--muted);margin-top:6px;padding:6px 9px;background:var(--bg3);border-radius:6px;border-left:2px solid var(--border2);line-height:1.5}
+.jc-actions{display:flex;gap:6px;margin-top:9px}
+.jc-btn{flex:1;background:var(--bg3);border:1px solid var(--border);color:var(--muted2);font-family:var(--font);font-size:.74rem;font-weight:500;padding:7px;border-radius:6px;cursor:pointer;transition:color .15s}
+.jc-btn:hover{color:var(--text)}
+.jc-btn.del{color:var(--red);border-color:var(--red-border)}
+
+/* ── ADS ── */
+.ad-card{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:10px 13px;margin-bottom:8px;display:flex;align-items:center;justify-content:space-between;gap:8px}
+.ad-l{display:flex;flex-direction:column;gap:2px}
+.ad-platform{font-weight:600;font-size:.88rem}
+.ad-meta{font-size:.72rem;color:var(--muted)}
+.ad-r{display:flex;align-items:center;gap:8px}
+.ad-amt{font-family:var(--mono);font-size:.92rem;color:var(--red)}
+.ad-btns{display:flex;gap:5px}
+.icon-btn{background:var(--bg3);border:1px solid var(--border);border-radius:6px;width:30px;height:30px;display:flex;align-items:center;justify-content:center;cursor:pointer;font-size:.82rem;color:var(--muted);transition:color .15s}
+.icon-btn.del:hover{color:var(--red)}
+.ads-total-bar{display:flex;justify-content:space-between;align-items:center;margin-top:8px;padding:9px 13px;background:var(--bg3);border:1px solid var(--border);border-radius:var(--r);font-size:.84rem;font-weight:600}
+
+/* ── SUMMARY ── */
+.sum-row{display:flex;justify-content:space-between;align-items:center;padding:9px 13px;background:var(--bg2);border:1px solid var(--border);border-radius:7px;margin-bottom:5px;font-size:.85rem}
+.sum-row.total{background:var(--bg3);border-color:var(--orange-border);font-family:var(--display);font-weight:700;font-size:.92rem}
+.sum-table{width:100%;border-collapse:collapse;font-size:.78rem}
+.sum-table th{text-align:left;padding:5px 6px;border-bottom:1px solid var(--border);color:var(--muted);font-size:.62rem;text-transform:uppercase;letter-spacing:.06em}
+.sum-table td{padding:7px 6px;border-bottom:1px solid var(--border);font-family:var(--mono)}
+.sum-table td.nm{font-family:var(--font);font-weight:500}
+
+.empty{text-align:center;padding:32px 16px;color:var(--muted);font-size:.85rem;line-height:1.7}
+.empty strong{color:var(--text)}
+
+/* ── FORM ── */
+.form-stack{display:flex;flex-direction:column;gap:12px}
+.form-row{display:flex;gap:10px}
+.ff{display:flex;flex-direction:column;gap:4px;flex:1;min-width:0}
+.ff label{font-size:.64rem;font-weight:500;color:var(--muted);text-transform:uppercase;letter-spacing:.07em}
+.ff input,.ff select,.ff textarea{background:var(--bg3);border:1px solid var(--border);border-radius:7px;padding:9px 11px;font-family:var(--font);font-size:.88rem;color:var(--text);outline:none;width:100%;transition:border-color .15s}
+.ff input:focus,.ff select:focus,.ff textarea:focus{border-color:var(--orange)}
+.ff input::placeholder,.ff textarea::placeholder{color:var(--muted)}
+.ff select option{background:var(--bg3)}
+.labour-hint{font-size:.76rem;color:var(--muted);background:var(--bg3);border-radius:7px;padding:8px 10px}
+.labour-hint span{font-family:var(--mono);color:var(--amber);font-weight:500}
+
+/* ── MODAL ── */
+.modal-wrap{position:fixed;inset:0;z-index:200;display:flex;align-items:flex-end;background:rgba(0,0,0,.75);backdrop-filter:blur(4px)}
+.modal-wrap.center{align-items:center;justify-content:center;padding:20px}
+.modal-box{background:var(--bg2);border:1px solid var(--border2);border-radius:16px 16px 0 0;width:100%;max-width:640px;margin:0 auto;max-height:92vh;overflow-y:auto}
+.modal-wrap.center .modal-box{border-radius:14px;max-width:440px}
+.modal-head{display:flex;align-items:center;justify-content:space-between;padding:16px 20px;border-bottom:1px solid var(--border);position:sticky;top:0;background:var(--bg2);z-index:1}
+.modal-head h3{font-family:var(--display);font-size:1rem;font-weight:700}
+.modal-close{background:var(--bg3);border:1px solid var(--border);color:var(--muted);width:28px;height:28px;border-radius:50%;cursor:pointer;font-size:.8rem;display:flex;align-items:center;justify-content:center}
+.modal-body{padding:20px;display:flex;flex-direction:column;gap:14px}
+.modal-actions{display:flex;gap:8px;margin-top:4px}
+.modal-actions .btn{flex:1;justify-content:center}
+
+/* ── TOAST ── */
+#toast{position:fixed;bottom:24px;left:50%;transform:translateX(-50%);background:var(--bg3);border:1px solid var(--border2);border-radius:20px;padding:7px 16px;font-size:.76rem;color:var(--muted2);opacity:0;transition:opacity .3s;z-index:999;pointer-events:none;white-space:nowrap}
+#toast.show{opacity:1}
+
+@media(max-width:640px){
+  .summary-strip{grid-template-columns:repeat(2,1fr)}
+  .ss:nth-child(2){border-right:none}
+  .ss:nth-child(3){border-top:1px solid var(--border)}
+  .ss:nth-child(4){border-top:1px solid var(--border);border-right:none}
+  .form-row{flex-wrap:wrap}
+  .ff{min-width:calc(50% - 5px)}
+  .tab-pane{padding:14px}
+}
+</style>
+</head>
+<body>
+
+<div class="app-header">
+  <div class="ah-left">
+    <a class="back-btn" href="index.html">← Home</a>
+    <div class="ah-logo">
+      <div class="ah-logo-mark">📊</div>
+      <div class="ah-title">Garage Tracker</div>
+    </div>
+  </div>
+  <div>
+    <button class="btn btn-primary btn-sm" onclick="openJobModal(null)">+ Add Job</button>
+  </div>
+</div>
+
+<div class="week-bar">
+  <div class="week-nav">
+    <button class="wk-btn" onclick="changeWeek(-1)">‹</button>
+    <span class="wk-label" id="wkLabel"></span>
+    <button class="wk-btn" onclick="changeWeek(1)">›</button>
+  </div>
+  <div class="summary-strip">
+    <div class="ss"><div class="ss-l">Revenue</div><div class="ss-v g" id="ssRev">£0</div></div>
+    <div class="ss"><div class="ss-l">Expenses</div><div class="ss-v r" id="ssExp">£0</div></div>
+    <div class="ss hi"><div class="ss-l">Profit</div><div class="ss-v" id="ssProfit">£0</div></div>
+    <div class="ss"><div class="ss-l">vs last week</div><div class="ss-v" id="ssChange">—</div></div>
+  </div>
+</div>
+
+<div class="tab-bar">
+  <button class="tab-btn active" onclick="switchTab('jobs',this)">🔧 Jobs</button>
+  <button class="tab-btn" onclick="switchTab('ads',this)">📣 Ads Spend</button>
+  <button class="tab-btn" onclick="switchTab('summary',this)">📊 Summary</button>
+</div>
+
+<!-- JOBS -->
+<div id="pane-jobs" class="tab-pane active">
+  <div class="section-head">
+    <div class="section-title">Jobs this week</div>
+    <button class="btn btn-primary btn-sm" onclick="openJobModal(null)">+ Add Job</button>
+  </div>
+  <div id="jobsList"></div>
+  <div id="jobsEmpty" class="empty" style="display:none">No jobs yet this week.<br/>Tap <strong>+ Add Job</strong> to get started.</div>
+</div>
+
+<!-- ADS -->
+<div id="pane-ads" class="tab-pane">
+  <div class="section-head">
+    <div class="section-title">Ads spend this week</div>
+    <button class="btn btn-primary btn-sm" onclick="openAdModal(null)">+ Add Spend</button>
+  </div>
+  <div id="adsList"></div>
+  <div id="adsEmpty" class="empty" style="display:none">No ad spend logged this week.</div>
+  <div class="ads-total-bar" id="adsTotalBar" style="display:none">
+    <span>Total ads spend</span>
+    <span style="font-family:var(--mono);color:var(--red)" id="adsTotalVal">£0.00</span>
+  </div>
+</div>
+
+<!-- SUMMARY -->
+<div id="pane-summary" class="tab-pane">
+  <div class="section-title" style="margin-bottom:12px">Week breakdown</div>
+  <div id="sumBreakdown"></div>
+  <div class="section-title" style="margin:20px 0 12px">All jobs this week</div>
+  <div id="sumTable"></div>
+</div>
+
+<!-- JOB MODAL -->
+<div id="jobModal" class="modal-wrap" style="display:none">
+  <div class="modal-box">
+    <div class="modal-head">
+      <h3 id="jobModalTitle">Add Job</h3>
+      <button class="modal-close" onclick="closeModal('jobModal')">✕</button>
+    </div>
+    <div class="modal-body">
+      <div class="form-row">
+        <div class="ff"><label>Client name</label><input type="text" id="jName" placeholder="Client name"/></div>
+        <div class="ff"><label>Job type</label>
+          <select id="jType">
+            <option value="">Select…</option>
+            <option>Bodywork</option><option>Paint</option><option>Full respray</option>
+            <option>Dent repair</option><option>Welding</option><option>MOT prep</option>
+            <option>Detailing</option><option>Other</option>
+          </select>
+        </div>
+      </div>
+      <div class="form-row">
+        <div class="ff"><label>Date booked</label><input type="date" id="jBooked"/></div>
+        <div class="ff"><label>Date completed</label><input type="date" id="jDone"/></div>
+      </div>
+      <div class="form-row">
+        <div class="ff"><label>Price charged (£)</label><input type="number" id="jPrice" placeholder="0.00" min="0" step="0.01"/></div>
+        <div class="ff"><label>Materials cost (£)</label><input type="number" id="jMats" placeholder="0.00" min="0" step="0.01"/></div>
+      </div>
+      <div class="ff"><label>Staff hours worked</label><input type="number" id="jHours" placeholder="0" min="0" step="0.5" oninput="updateLabour()"/></div>
+      <div class="labour-hint">Labour cost: <span id="labourVal">£0.00</span></div>
+      <div class="ff"><label>Notes (optional)</label><textarea id="jNotes" rows="2" placeholder="Any details…"></textarea></div>
+      <div class="modal-actions">
+        <button class="btn btn-ghost" onclick="closeModal('jobModal')">Cancel</button>
+        <button class="btn btn-primary" onclick="saveJob()">Save Job</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- AD MODAL -->
+<div id="adModal" class="modal-wrap" style="display:none">
+  <div class="modal-box">
+    <div class="modal-head">
+      <h3 id="adModalTitle">Add Ad Spend</h3>
+      <button class="modal-close" onclick="closeModal('adModal')">✕</button>
+    </div>
+    <div class="modal-body">
+      <div class="ff"><label>Platform</label>
+        <select id="aPlatform">
+          <option value="">Select…</option>
+          <option>Facebook</option><option>Instagram</option><option>Google</option>
+          <option>TikTok</option><option>Other</option>
+        </select>
+      </div>
+      <div class="form-row">
+        <div class="ff"><label>Date</label><input type="date" id="aDate"/></div>
+        <div class="ff"><label>Amount (£)</label><input type="number" id="aAmount" placeholder="0.00" min="0" step="0.01"/></div>
+      </div>
+      <div class="ff"><label>Notes (optional)</label><textarea id="aNotes" rows="2" placeholder="e.g. Weekly Facebook boost"></textarea></div>
+      <div class="modal-actions">
+        <button class="btn btn-ghost" onclick="closeModal('adModal')">Cancel</button>
+        <button class="btn btn-primary" onclick="saveAd()">Save</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- DELETE CONFIRM -->
+<div id="delModal" class="modal-wrap center" style="display:none">
+  <div class="modal-box">
+    <div class="modal-head"><h3>Delete?</h3></div>
+    <div class="modal-body">
+      <p id="delMsg" style="font-size:.88rem;color:var(--muted2)">This cannot be undone.</p>
+      <div class="modal-actions">
+        <button class="btn btn-ghost" onclick="closeModal('delModal')">Cancel</button>
+        <button class="btn" style="background:var(--red);color:#fff;flex:1;justify-content:center" onclick="confirmDel()">Delete</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="toast"></div>
+
+<script>
+// ── STATE ──
+const LR_DEFAULT = 13;
+let state = { jobs:[], ads:[] };
+let weekOff = 0, editJobId = null, editAdId = null, pendDelType = null, pendDelId = null;
+
+function save() { localStorage.setItem('gt_v2', JSON.stringify(state)); toast('Saved ✓') }
+function load() { try { const d=localStorage.getItem('gt_v2'); if(d) state={...state,...JSON.parse(d)} } catch(e){} }
+function getLR() { try { const s=JSON.parse(localStorage.getItem('sq_v2')||'{}'); return s.settings?.labour||LR_DEFAULT } catch(e){ return LR_DEFAULT } }
+
+// ── UTILS ──
+function uid() { return Date.now().toString(36)+Math.random().toString(36).slice(2,5) }
+function esc(s) { return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;') }
+function fmt(n) { return '£'+Math.abs(parseFloat(n)||0).toFixed(2) }
+function fmtS(n) { const v=parseFloat(n)||0; return (v<0?'-':'')+fmt(v) }
+function fmtD(iso) { if(!iso) return '—'; const d=new Date(iso+'T00:00:00'); return d.toLocaleDateString('en-GB',{day:'numeric',month:'short',year:'numeric'}) }
+function tod() { return new Date().toISOString().slice(0,10) }
+function toast(msg) { const t=document.getElementById('toast'); t.textContent=msg; t.classList.add('show'); clearTimeout(t._t); t._t=setTimeout(()=>t.classList.remove('show'),1500) }
+function showModal(id) { document.getElementById(id).style.display='flex' }
+function closeModal(id) { document.getElementById(id).style.display='none' }
+
+// ── WEEK ──
+function getWS(off) { const d=new Date(); const wd=d.getDay(); d.setDate(d.getDate()+((wd===0)?-6:1-wd)+(off*7)); d.setHours(0,0,0,0); return d }
+function getWE(ws) { const d=new Date(ws); d.setDate(d.getDate()+6); return d }
+function fmtWL(off) { const ws=getWS(off),we=getWE(ws); return (off===0?'This week  ·  ':'')+ws.toLocaleDateString('en-GB',{day:'numeric',month:'short'})+' – '+we.toLocaleDateString('en-GB',{day:'numeric',month:'short',year:'numeric'}) }
+function inW(iso,off) { if(!iso) return false; const d=new Date(iso+'T00:00:00'),ws=getWS(off),we=getWE(off); we.setHours(23,59,59,999); return d>=ws&&d<=we }
+function jobsW(off) { return state.jobs.filter(j=>inW(j.booked,off)) }
+function adsW(off) { return state.ads.filter(a=>inW(a.date,off)) }
+function changeWeek(d) { weekOff+=d; render() }
+
+// ── CALC ──
+function jobCalc(j) { const lr=getLR(); const l=(parseFloat(j.hours)||0)*lr,m=parseFloat(j.mats)||0,p=parseFloat(j.price)||0; return {p,l,m,profit:p-l-m} }
+function weekTotals(jobs,ads) { let r=0,m=0,l=0,a=0; jobs.forEach(j=>{const c=jobCalc(j);r+=c.p;m+=c.m;l+=c.l}); ads.forEach(x=>a+=parseFloat(x.amount)||0); return {rev:r,mat:m,lab:l,ad:a,profit:r-m-l-a} }
+
+// ── TABS ──
+function switchTab(name,btn) {
+  document.querySelectorAll('.tab-btn').forEach(b=>b.classList.remove('active'));
+  document.querySelectorAll('.tab-pane').forEach(p=>p.classList.remove('active'));
+  btn.classList.add('active');
+  document.getElementById('pane-'+name).classList.add('active');
+}
+
+// ── JOB MODAL ──
+function openJobModal(id, prefill) {
+  editJobId=id;
+  document.getElementById('jobModalTitle').textContent=id?'Edit Job':'Add Job';
+  if(id) {
+    const j=state.jobs.find(x=>x.id===id); if(!j) return;
+    document.getElementById('jName').value=j.name||'';
+    document.getElementById('jType').value=j.type||'';
+    document.getElementById('jBooked').value=j.booked||'';
+    document.getElementById('jDone').value=j.done||'';
+    document.getElementById('jPrice').value=j.price||'';
+    document.getElementById('jMats').value=j.mats||'';
+    document.getElementById('jHours').value=j.hours||'';
+    document.getElementById('jNotes').value=j.notes||'';
+  } else {
+    document.getElementById('jName').value=prefill?.name||'';
+    document.getElementById('jType').value=prefill?.type||'';
+    document.getElementById('jBooked').value=prefill?.booked||tod();
+    document.getElementById('jDone').value='';
+    document.getElementById('jPrice').value=prefill?.price||'';
+    document.getElementById('jMats').value='';
+    document.getElementById('jHours').value='';
+    document.getElementById('jNotes').value=prefill?.desc||'';
+  }
+  updateLabour(); showModal('jobModal');
+}
+function updateLabour() { const h=parseFloat(document.getElementById('jHours').value)||0; document.getElementById('labourVal').textContent=fmt(h*getLR()) }
+function saveJob() {
+  const name=document.getElementById('jName').value.trim();
+  if(!name){alert('Please enter a client name.');return}
+  const j={id:editJobId||uid(),name,type:document.getElementById('jType').value,booked:document.getElementById('jBooked').value,done:document.getElementById('jDone').value,price:document.getElementById('jPrice').value,mats:document.getElementById('jMats').value,hours:document.getElementById('jHours').value,notes:document.getElementById('jNotes').value.trim()};
+  if(editJobId){const idx=state.jobs.findIndex(x=>x.id===editJobId);if(idx>=0)state.jobs[idx]=j}
+  else state.jobs.push(j);
+  save(); closeModal('jobModal'); render();
+}
+
+// ── AD MODAL ──
+function openAdModal(id) {
+  editAdId=id;
+  document.getElementById('adModalTitle').textContent=id?'Edit Ad Spend':'Add Ad Spend';
+  if(id){const a=state.ads.find(x=>x.id===id);if(!a)return;document.getElementById('aPlatform').value=a.platform||'';document.getElementById('aDate').value=a.date||'';document.getElementById('aAmount').value=a.amount||'';document.getElementById('aNotes').value=a.notes||''}
+  else{document.getElementById('aPlatform').value='';document.getElementById('aDate').value=tod();document.getElementById('aAmount').value='';document.getElementById('aNotes').value=''}
+  showModal('adModal');
+}
+function saveAd() {
+  const p=document.getElementById('aPlatform').value;
+  const amt=document.getElementById('aAmount').value;
+  if(!p){alert('Select a platform.');return}
+  if(!amt){alert('Enter an amount.');return}
+  const a={id:editAdId||uid(),platform:p,date:document.getElementById('aDate').value,amount:amt,notes:document.getElementById('aNotes').value.trim()};
+  if(editAdId){const idx=state.ads.findIndex(x=>x.id===editAdId);if(idx>=0)state.ads[idx]=a}
+  else state.ads.push(a);
+  save(); closeModal('adModal'); render();
+}
+
+// ── DELETE ──
+function askDel(type,id){pendDelType=type;pendDelId=id;document.getElementById('delMsg').textContent=type==='job'?'Delete this job?':'Delete this ad spend?';showModal('delModal')}
+function confirmDel(){if(pendDelType==='job')state.jobs=state.jobs.filter(x=>x.id!==pendDelId);else state.ads=state.ads.filter(x=>x.id!==pendDelId);save();closeModal('delModal');render()}
+
+// ── RENDER ──
+function render() {
+  const lr=getLR();
+  const jobs=jobsW(weekOff), ads=adsW(weekOff);
+  const t=weekTotals(jobs,ads), prev=weekTotals(jobsW(weekOff-1),adsW(weekOff-1));
+  const diff=t.profit-prev.profit;
+
+  document.getElementById('wkLabel').textContent=fmtWL(weekOff);
+  document.getElementById('ssRev').textContent=fmt(t.rev);
+  document.getElementById('ssExp').textContent=fmt(t.mat+t.lab+t.ad);
+  const pe=document.getElementById('ssProfit'); pe.textContent=fmtS(t.profit); pe.className='ss-v '+(t.profit>=0?'g':'r');
+  const ce=document.getElementById('ssChange');
+  if(prev.profit===0&&t.profit===0){ce.textContent='—';ce.className='ss-v'}
+  else{
+    const sign = diff>=0?'+':'-';
+    ce.textContent = sign+'£'+Math.abs(diff).toFixed(2);
+    ce.className='ss-v '+(diff>=0?'g':'r');
+  }
+
+  // Jobs
+  const jl=document.getElementById('jobsList'),je=document.getElementById('jobsEmpty');
+  if(!jobs.length){jl.innerHTML='';je.style.display='block'}
+  else{
+    je.style.display='none';
+    jl.innerHTML=jobs.map(j=>{
+      const c=jobCalc(j);
+      return `<div class="job-card">
+        <div class="jc-top"><span class="jc-name">${esc(j.name)}</span><span class="jc-type">${esc(j.type||'—')}</span></div>
+        <div class="jc-dates"><span>Booked: ${fmtD(j.booked)}</span><span>Done: ${j.done?fmtD(j.done):'—'}</span></div>
+        <div class="jc-fins">
+          <div class="fin"><div class="fin-l">Revenue</div><div class="fin-v" style="color:var(--green)">${fmt(c.p)}</div></div>
+          <div class="fin"><div class="fin-l">Expenses</div><div class="fin-v" style="color:var(--red)">${fmt(c.m+c.l)}</div></div>
+          <div class="fin"><div class="fin-l">Profit</div><div class="fin-v" style="color:${c.profit>=0?'var(--green)':'var(--red)'}">${fmtS(c.profit)}</div></div>
+        </div>
+        <div class="jc-sub">Mats: ${fmt(c.m)} · Labour: ${fmt(c.l)} (${j.hours||0}h × £${lr})</div>
+        ${j.notes?`<div class="jc-note">${esc(j.notes)}</div>`:''}
+        <div class="jc-actions">
+          <button class="jc-btn" onclick="openJobModal('${j.id}')">✏️ Edit</button>
+          <button class="jc-btn del" onclick="askDel('job','${j.id}')">🗑 Delete</button>
+        </div>
+      </div>`;
+    }).join('');
+  }
+
+  // Ads
+  const al=document.getElementById('adsList'),ae=document.getElementById('adsEmpty'),ab=document.getElementById('adsTotalBar');
+  const adT=ads.reduce((s,a)=>s+(parseFloat(a.amount)||0),0);
+  document.getElementById('adsTotalVal').textContent=fmt(adT);
+  if(!ads.length){al.innerHTML='';ae.style.display='block';ab.style.display='none'}
+  else{
+    ae.style.display='none';ab.style.display='flex';
+    al.innerHTML=ads.map(a=>`<div class="ad-card">
+      <div class="ad-l"><div class="ad-platform">${esc(a.platform)}</div><div class="ad-meta">${fmtD(a.date)}${a.notes?' · '+esc(a.notes):''}</div></div>
+      <div class="ad-r">
+        <span class="ad-amt">${fmt(a.amount)}</span>
+        <div class="ad-btns">
+          <div class="icon-btn" onclick="openAdModal('${a.id}')">✏️</div>
+          <div class="icon-btn del" onclick="askDel('ad','${a.id}')">🗑</div>
+        </div>
+      </div>
+    </div>`).join('');
+  }
+
+  // Summary
+  const totalHrs=jobs.reduce((s,j)=>s+(parseFloat(j.hours)||0),0);
+  document.getElementById('sumBreakdown').innerHTML=`
+    <div class="sum-row"><span>Revenue (${jobs.length} job${jobs.length!==1?'s':''})</span><span style="font-family:var(--mono);color:var(--green)">+${fmt(t.rev)}</span></div>
+    <div class="sum-row"><span>Materials</span><span style="font-family:var(--mono);color:var(--red)">-${fmt(t.mat)}</span></div>
+    <div class="sum-row"><span>Labour (${totalHrs.toFixed(1)}h × £${lr})</span><span style="font-family:var(--mono);color:var(--red)">-${fmt(t.lab)}</span></div>
+    <div class="sum-row"><span>Ads spend</span><span style="font-family:var(--mono);color:var(--red)">-${fmt(t.ad)}</span></div>
+    <div class="sum-row total"><span>Net Profit</span><span style="font-family:var(--mono);color:${t.profit>=0?'var(--green)':'var(--red)'}">${fmtS(t.profit)}</span></div>
+    <div class="sum-row"><span style="color:var(--muted)">vs last week</span><span style="font-family:var(--mono);color:${diff>=0?'var(--green)':'var(--red)'}">${prev.profit===0&&t.profit===0?'—':(diff>=0?'+':'-')+'£'+Math.abs(diff).toFixed(2)}</span></div>`;
+
+  const st=document.getElementById('sumTable');
+  if(!jobs.length){st.innerHTML='<div class="empty" style="padding:16px">No jobs this week.</div>';return}
+  st.innerHTML=`<table class="sum-table"><thead><tr><th>Client</th><th>Type</th><th>Revenue</th><th>Expenses</th><th>Profit</th></tr></thead><tbody>${
+    jobs.map(j=>{const c=jobCalc(j);return`<tr><td class="nm">${esc(j.name)}</td><td>${esc(j.type||'—')}</td><td style="color:var(--green)">${fmt(c.p)}</td><td style="color:var(--red)">${fmt(c.m+c.l)}</td><td style="color:${c.profit>=0?'var(--green)':'var(--red)'}">${fmtS(c.profit)}</td></tr>`}).join('')
+  }</tbody></table>`;
+}
+
+// ── BOOT ──
+load();
+// Check if redirected from ShopQuote with prefill
+const params = new URLSearchParams(window.location.search);
+if (params.get('newjob')) {
+  try {
+    const pf = JSON.parse(localStorage.getItem('gt_prefill')||'{}');
+    localStorage.removeItem('gt_prefill');
+    if (pf.name) { window.addEventListener('DOMContentLoaded', ()=>openJobModal(null,pf)); openJobModal(null,pf); }
+  } catch(e) {}
+}
+render();
+</script>
+</body>
+</html>
