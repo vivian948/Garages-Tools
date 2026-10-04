@@ -1,0 +1,66 @@
+BEGINNER SCRIPT PROMPTS
+Copy and paste these into Gemini, Claude or ChatGPT, one at a time, in the SAME chat.
+Replace anything in [square brackets] with your own details.
+
+------------------------------------------------------------
+PROMPT 1 — STUDY THE FORMULA
+------------------------------------------------------------
+I'm a beginner YouTuber starting a faceless channel in the [your niche] niche.
+Below is the script of a video that went viral for a small channel in my niche.
+
+Please study it and break down its formula. For each part of the script, tell me:
+1. What section it is (hook, intro, main points, transitions, ending, call to action)
+2. What it's doing and why it works (curiosity, a promise, a story, a list, etc.)
+3. Roughly how long that section is compared to the whole script
+
+Then summarise the full formula as a simple step-by-step structure I can reuse.
+Don't rewrite their script. I only want the structure.
+
+Here is the script:
+[paste their script]
+
+------------------------------------------------------------
+PROMPT 2 — YOUR OWN OUTLINE
+------------------------------------------------------------
+Now use that exact formula to give me my own outline for a video on:
+[your topic / your chosen title]
+
+We're covering the same topic, but do NOT copy their script, their examples or
+their wording. Keep the same structure and the same number of sections, and give
+me fresh points, examples and angles that are my own.
+Show the outline section by section, with one line explaining each point.
+
+------------------------------------------------------------
+PROMPT 3 — WRITE IT SECTION BY SECTION
+------------------------------------------------------------
+Let's write the script one section at a time. Start with the hook only.
+Follow the formula for this section, keep it natural and easy to read aloud for
+a voiceover, and stop when the hook is finished.
+
+(When you're happy with it, send:)
+Great. Now write the next section: [section name]. Same rules.
+
+(Repeat until every section is written.)
+
+------------------------------------------------------------
+PROMPT 4 — CHECK IT
+------------------------------------------------------------
+Are you following the formula? Compare my script with the original one section
+by section and tell me:
+1. Where it follows the formula well
+2. Anywhere it has copied their words or sentences too closely, and rewrite those
+   parts in fresh words
+3. Any lines that might sound strange when read by an AI voice, and fix them
+
+------------------------------------------------------------
+IF SOMETHING LOOKS OFF
+------------------------------------------------------------
+This doesn't make sense for my topic. Don't copy their words. Use your own
+unique words, in a way that makes sense for my topic.
+
+------------------------------------------------------------
+REMINDERS
+------------------------------------------------------------
+- Always read what the AI writes. Sometimes it copies the original script.
+- Write section by section, never the whole script at once.
+- Keep the competitor's script saved so you can compare it with yours at the end.
