@@ -1,0 +1,132 @@
+# Tiny Course Business — Playbook
+
+Source: Sergio Estevez, *The Tiny Course Method* (PDF), "Lesson Zero / Big Picture" and "Tiny Course Beta" trainings.
+This file is our shared brain. Update the log at the bottom every time we launch, change or read numbers.
+
+---
+
+## 1. The core idea in one paragraph
+
+Don't build a big course and hope. Find a **pain people already feel**, wrap a **short, fast process** around it (the hook),
+put up a **one-page beta sales page + checkout**, run **Facebook sales ads worldwide**, and let sales tell you if the idea is real —
+usually within 24 hours of the ads delivering. **Sell first, record second.** If it sells, build the short course, add upsells,
+then sell group coaching on the back end. If it doesn't, change the idea (not the headline) and test again.
+
+## 2. Mindset rules (the "why")
+
+- You are a **business owner**, not "a hypnotist / fitness coach / X expert". Follow sales, not identity.
+- It's a **business problem, not a marketing problem.** If it doesn't sell, you're talking to nobody, the wrong person, or the right person at the wrong mental stage. More copywriting courses won't fix that.
+- **Cave analogy:** knock on many caves (ideas) cheaply. Only go deep where someone answers (sales).
+- **Blue ocean > red ocean.** Avoid US/Canada-only + marketing niches at first. Go **broad + worldwide** where ads are cheaper and audiences less ad-blasted.
+- **Broad makes you king.** "Anxiety", not "anxiety for students". "Business owners", not "young female coaches in the Netherlands". You can niche down later; it's hard to go broader.
+- **Honesty and transparency sell.** No fake claims, no fake scarcity. Teach the full result inside the tiny course, hold nothing back.
+- **Remove work for the buyer.** A tiny course gives the bare minimum needed to get the result.
+- **Day-one expectations:** getting back **70–100%+ of ad spend** on the first launch = a win (validation). Profit comes from upsells + back end + optimisation.
+
+## 3. Building the idea (the "cave")
+
+Order: **pain → who (mental, then physical) → hook.**
+
+1. **Pain point** (one line): what are you fixing + why it hurts emotionally/physically. Lead with pain, not benefit.
+   - Go one level deeper: the *pain of the pain* (e.g. "I can't sleep" → "I'm exhausted all day").
+2. **Who — mental stage (awareness):** unaware → pain aware → problem aware → process/solution aware → product aware (burned).
+   - Experts default too far right (curse of knowledge). **Lean left, around early-to-mid "problem aware"**: less pain each, but many more people and cheaper.
+   - Pick 2–3 stages and test them left → right.
+3. **Who — physical:** gender/age only if truly needed. Usually exclude, don't narrow. Avoid targeting students/low income unless the topic requires it.
+4. **Hook = the idea/angle + course title.** Must pass **IBS**:
+   - **I**nstant — fast result/implementation; use time units: "60-second", "7-minute", "15-minute", "1-hour", "one afternoon".
+   - **B**road — big audience, one big pain.
+   - **S**hort — tiny, easy to consume (listen while commuting, copy-paste, toolbox, audio, plan).
+   - **ONE pain only** per hook.
+   - In a blue ocean you do NOT need new/unique/shocking. "You have this problem → here's the solution" works.
+5. **Ideation tips (PDF bonus):**
+   - Ask "what does my skill actually solve?" (hypnosis → chronic pain, anxiety, sleep…). Skills/interests → big market + pain + hook.
+   - Clients often want a concrete outcome (a dream job), not your framework (a "mindset program").
+   - **Caves grid:** list pain points, sort by awareness, self-identification, broadness → 2–3 topics × 2 hooks each = ~6 caves.
+     Priority = Pain × Relevancy. Test top 2–3. Expect one winner, one break-even, one loser → kill loser, scale winner.
+   - **Competitor research:** find competitors running ads and seemingly profitable. Make their offer **shorter and broader**. Their **bonuses** are great tiny-course ideas.
+   - **Argument filters** for hooks: **FLIP** (say the opposite and justify), **FLOW** (agree with the prospect, not the others), **BREAK** (new concept).
+   - Don't reveal the "how" in sales material; keep the mechanism a curiosity ("that's the little secret, but it's NOT…").
+
+## 4. The beta sales page (one page, white background, black text)
+
+Tool: ClickFunnels (or any builder). Build for **mobile first**. Design ≈ 5% of results.
+
+Structure, top to bottom:
+1. **Tiny course name** (the hook)
+2. **Mockup image** — simple 3D cover or diagram (Canva; adapt a Google-image "X diagram")
+3. **Problem / headline** — name the pain clearly + outcome ("Tired of being alone? …")
+4. **Pain section** — 3–4 lines in *their* words; things they tried that didn't work
+5. **Proof** — testimonials, your results, research, or a logical A→B→C argument
+6. **Old way** — the **"You don't need…" repetition** ×3–5 (their false beliefs)
+7. **New way** — "What you need is…" introduce the concept; keep curiosity, don't explain the full how
+8. **Call to action** (first button only here — make them read first)
+9. **Guarantee** — simple refund ("email me and I'll refund, no questions")
+10. **Real scarcity** — e.g. a different bonus each month ("July-only bonus"). Discounts only if not a business niche.
+11. **FAQ** — answer objections
+12. **Recap** — "If you scrolled to the bottom, here's what you get" + button(s)
+
+## 5. Checkout (billing) page
+
+- Course name + one-line benefit subheadline.
+- **Email (+ name at most) and card.** No address fields.
+- **Card + PayPal** if possible (PayPal-only works internationally).
+- Thank-you page: "Order confirmed — we'll manually send your access within the next few hours/days."
+- Pixel: base code in header + **Purchase event** on the thank-you page. Verify with **Meta Pixel Helper**.
+
+## 6. Facebook ads setup (as taught)
+
+- Ads Manager → add card in billing → create pixel (Events Manager) → install on thank-you page → verify.
+- Campaign: **Sales** objective, manual setup, auction.
+- Ad set: website conversion, your pixel, **Purchase**.
+  - **Cost per result goal / bid cap = course price** (later: price + 10%).
+  - Daily budget: anything; he uses 250 (won't spend it all because of the cap). Suggested **$5–$50/day**. Budget = time to result.
+  - **Locations: all countries, excluding the US** (separate US ad set later).
+  - Audience suggestions: broad hints (famous people, general interests) or blank.
+  - Placements: all (Advantage+).
+- Ads: **5 primary texts** (copied from the sales page) + **5 headlines** + optional descriptions.
+  - End the text with the **price / "get it today for $X"** so clicks come from buyers.
+  - Creative: **"Twitter/X post"-style square images** (Canva, your photo + name + text). 1 image minimum, ~5 ideal (one ad per image, duplicated).
+  - Check crop in 1:1 and 9:16.
+  - ChatGPT for ideas, not final copy.
+- Publish first (approval can take hours to a day), **then test the whole funnel** on desktop/tablet/phone: links, buttons, a real purchase, pixel firing.
+
+## 7. Reading results — decision rules
+
+Wait until impressions are rising, then until spend ≥ **2× course price** (ideally **5×**).
+
+| Situation | Action |
+|---|---|
+| Spend < course price | Keep spending |
+| Spend ≥ 2–5× price, **0 sales** | Hook didn't survive. Go back to the drawing board: bigger pain, a bit more to the **right** (more problem-aware / tried things). **Totally new hook**, reuse nothing. Retest. |
+| Sales cover **≤ 30%** of spend | Demand exists, not communicated clearly. Tweak the hook: easier, more instant, add (real) scarcity. Then do the 30–50% steps. |
+| Sales cover **30–50%** | Keep the hook. **Pause ads**, add **$7 order bump + upsell + downsell + upsell** (all one-click), then turn ads back on. Work on the back end. |
+| Sales cover **50–70%** | Normal first launch. Add the funnel extras, don't touch the offer. |
+| Sales cover **70–100%+** | Winner. **Do NOT pause or touch the ads** (data improves results). Add upsells/back end in parallel. Only raise budget when confident. |
+
+After validation: record the course (spreadsheet + screen share, ~50–60 min max), set bid cap to **price + 10%**, set up a welcome email.
+Email early buyers: "I'm finishing the training — what would you like me to cover?"
+
+## 8. The growth path
+
+Plan "easy win" tiny course → one-page funnel → **$10/day launch** → **3–5 new buyers/day (90–150/month)** →
+automate a stellar client experience → offer **VIP / group coaching** ($200–$1,000/month).
+His math: ~200 buyers/month → 10–20 group-coaching members + 1–2 high-ticket, without sales calls.
+
+---
+
+## 9. Partner notes (my additions, beyond the course)
+
+- **Meta ad policies will bite on health/relationship/money topics.** No "Are you lonely/anxious/in debt?" (personal attributes), no medical cure claims, no guaranteed-income claims. Talk about the *situation*, not "you are X". Plan to write compliant variants from day one.
+- **Cost cap on a brand-new pixel may not deliver.** That's partly the point (it only buys cheap sales), but if impressions stay near zero for 24–48h, we raise the cap 20–30% or test a small lowest-cost ad set to get the first data.
+- **Worldwide traffic:** watch the **country breakdown**. Cheap clicks from countries where cards/PayPal fail can eat budget; we exclude them only when the data shows it.
+- **Selling before recording is fine if we're honest:** a clear delivery time on the thank-you page, deliver fast, and refund instantly when asked.
+- **Track every launch in the log below** — hook, audience stage, price, spend, sales, % recovered, decision.
+
+---
+
+## 10. Launch log
+
+| Date | Hook / course name | Pain / awareness stage | Price | Spend | Sales | Revenue | % of spend recovered | Decision |
+|---|---|---|---|---|---|---|---|---|
+| | | | | | | | | |
