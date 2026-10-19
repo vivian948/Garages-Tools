@@ -150,10 +150,10 @@ Scored 1–5. Ad risk: 5 = safest.
 | F. Building apps with AI | 3 | 3 | 3 | 4 | 3 | Later |
 
 **Round-1 decision:** test A, B, C. Prices in USD (worldwide):
-- A. Faceless YouTube — **$27** (big pain)
-- B. Stop starting & stopping — **$17** (milder pain; still high enough for the cost cap to deliver)
-- C. Islamic intimacy for wives — **$27** (big pain)
-Compare ideas by **% of ad spend recovered**, not raw sales. Budget ~£50 (~$63) each; ideally ~$100 for A and C.
+- A. Faceless YouTube — **$27** (big pain) → *The 1-Hour Faceless Channel Plan*
+- B. Stop starting & stopping — **$17** (milder pain; still high enough for the cost cap to deliver) → *The 7-Minute Daily Reset*
+- C. Islamic intimacy for wives — **$27** (big pain) → *Closer in 7 Days: The Muslim Wife's Guide*
+Compare ideas by **% of ad spend recovered**, not raw sales. Budget: £50 per idea (ad account currency).
 
 ## 12. Launch log
 
