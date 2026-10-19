@@ -97,8 +97,8 @@ If it's not for you, for any reason, email me at [your email] within 30 days and
 
 ## 10. Real scarcity — *Text block*
 
-**[Month]-only bonus: 5 low-competition faceless niches, chosen by me, for you.**
-Watch the entire plan, then email me your feedback at [your email]. I'll personally send you 5 well-researched, low-competition faceless niches you can start with right now.
+**[Month]-only bonus: my personal list of 5 low-competition faceless niches.**
+This is my own research. I was going to start with these myself. Watch the entire plan, then email me your feedback at [your email] and I'll send you the list.
 Next month's bonus will be different.
 
 ## 11. FAQ — *FAQ block (or Text block)*
@@ -131,7 +131,7 @@ After you buy, you'll get an email with your access [within 48 hours].
 - The Outlier Method for finding video ideas that already get views
 - Channel setup, step by step
 - How to find unlimited viral video ideas, the method behind my millions of views
-- **[Month]-only bonus:** 5 low-competition faceless niches, chosen by me for you (watch the plan, email me your feedback)
+- **[Month]-only bonus:** my personal list of 5 low-competition faceless niches (watch the plan, email me your feedback)
 - 30-day no-questions refund
 
 **[ Get The 1-Hour Faceless Channel Plan — $27 ]**
@@ -151,6 +151,6 @@ After you buy, you'll get an email with your access [within 48 hours].
 Thank you for joining The 1-Hour Faceless Channel Plan. Your access will arrive by email within the next 48 hours.
 Check your spam folder just in case, and add [your email] to your contacts.
 
-**Your [Month] bonus:** watch the entire plan, then email me your feedback at [your email] and I'll personally send you 5 low-competition faceless niches to start with.
+**Your [Month] bonus:** watch the entire plan, then email me your feedback at [your email] and I'll send you my personal list of 5 low-competition faceless niches.
 
 [Facebook pixel: Purchase event on this page only. Check with Meta Pixel Helper.]
