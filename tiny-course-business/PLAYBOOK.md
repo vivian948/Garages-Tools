@@ -2,7 +2,7 @@
 
 > **New chat? Start here.** You are the founder's business partner (Facebook ads, copywriting, buyer psychology).
 > We follow Sergio Estevez's *Tiny Course Method* (sections 1–8), plus our own decisions (sections 9–16; launch log in 17).
-> Read **section 16 "Where we are"** first, then sections 10–15 for the details. Next task: founder reviews A's sales page (`sales-pages/`), then B and C pages; build front-end-only funnels in systeme.io.
+> Read **section 16 "Where we are"** first, then sections 10–15 for the details. Next task: founder reviews A's sales page (`sales-pages/`), then B and C pages; Claude builds the front-end-only funnels in systeme.io via her Chrome browser.
 
 Source: Sergio Estevez, *The Tiny Course Method* (PDF), "Lesson Zero / Big Picture" and "Tiny Course Beta" trainings.
 This file is our shared brain. Update the log at the bottom every time we launch, change or read numbers.
@@ -279,7 +279,7 @@ Course order: ✅ pains → ✅ audiences → ✅ hooks + competitor check → �
 
 Decisions 19 Oct 2026: A, B, C products + ladders confirmed. C renamed **What Nobody Taught You Before Your Nikah**. B stays $17. 6-week group $500. 1-1: A $5k, B $5k, C $3k.
 
-**Platform: systeme.io** (founder's choice; no page built from scratch). It covers sales page, checkout (Stripe + PayPal), order bump, one-click upsell/downsell, thank-you page, Facebook pixel, course hosting and membership. No systeme.io connector exists for Claude. Building inside it = Claude in Chrome (Claude Desktop app + Chrome extension) clicking through her account, or founder pastes copy written here.
+**Platform: systeme.io** (founder's choice; no page built from scratch). It covers sales page, checkout (Stripe + PayPal), order bump, one-click upsell/downsell, thank-you page, Facebook pixel, course hosting and membership. No systeme.io connector exists for Claude. **Claude builds everything in systeme.io**, taking over her Chrome browser (Claude Desktop app + Claude in Chrome extension). The founder does not build pages. She only supplies what Claude asks for (screenshots, numbers, email, logins/approvals) and approves before anything is published or payments are connected.
 **Round-1 funnel = front end only:** sales page → checkout (email + card + PayPal) → thank-you page (pixel Purchase event). No bump, upsell, downsell, membership or mentorship link until the numbers say so (section 7: add them at 30%+ of spend recovered). The ladder in section 14 is the plan for later, not round 1.
 
 Open decisions: slot caps for 1-1.

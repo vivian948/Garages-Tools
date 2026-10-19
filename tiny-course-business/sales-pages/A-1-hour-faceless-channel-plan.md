@@ -1,8 +1,8 @@
 # Beta sales page: A. The 1-Hour Faceless Channel Plan ($27)
 
 Round-1 funnel only: **sales page → checkout → thank-you page**. No bump, upsell or mentorship link until the numbers say so (playbook section 7).
-Built in systeme.io. White background, black text, mobile first. Each section says which systeme.io block to use.
-[Square brackets] = things to fill in. Anything marked "ask founder": ask her for it (numbers, screenshots, email, dates). Never guess.
+Claude builds this in systeme.io through the founder's Chrome browser. White background, black text, mobile first. Each section says which systeme.io block to use.
+[Square brackets] = things Claude fills in while building. Anything marked "ask founder": ask her for it (numbers, screenshots, email, dates). Never guess.
 Numbers are always written in full: £140,000, 217,000 subscribers, never "140k".
 
 ---
