@@ -149,6 +149,12 @@ Scored 1–5. Ad risk: 5 = safest.
 | E. Natural remedies | 3 | 5 | 2 | 1 | 3 | Later |
 | F. Building apps with AI | 3 | 3 | 3 | 4 | 3 | Later |
 
+**Round-1 decision:** test A, B, C. Prices in USD (worldwide):
+- A. Faceless YouTube — **$27** (big pain)
+- B. Stop starting & stopping — **$17** (milder pain; still high enough for the cost cap to deliver)
+- C. Islamic intimacy for wives — **$27** (big pain)
+Compare ideas by **% of ad spend recovered**, not raw sales. Budget ~£50 (~$63) each; ideally ~$100 for A and C.
+
 ## 12. Launch log
 
 | Date | Hook / course name | Pain / awareness stage | Price | Spend | Sales | Revenue | % of spend recovered | Decision |
