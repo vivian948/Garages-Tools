@@ -207,6 +207,7 @@ Only Hook 1 per idea in round 1 (£50 is too little to split).
 - Downsell $19: Title & Thumbnail Templates only.
 - Upsell 2 $197: full faceless YouTube course (web app).
 - Membership $29/mo: Faceless Accountability Club (weekly pep talk, check-ins, channel reviews).
+- Top: 3-month 1-1 mentorship, **$5,000** (founder's offer). Strongest proof of the three (£140k channel).
 
 **B. The 7-Minute Daily Reset, $17**
 - Front end: **7 short audio pep talks (~7 min each), one per day**, each ending with one tiny action, plus a one-page "Finish Line" sheet. Goal: finish ONE small thing in 7 days.
@@ -215,6 +216,7 @@ Only Hook 1 per idea in round 1 (£50 is too little to split).
 - Upsell 1 $47: The 30-Day Finish Plan (one goal broken into milestones, 30 pep talks).
 - Downsell $19: the 30 pep talks only (no plan or workbook).
 - Membership $19–29/mo: The Pep Talk Club (weekly live pep talk + check-ins). This is the strongest membership idea of the three, because the pain itself is "I need someone to keep me going".
+- Top: 3-month 1-1 mentorship, **$5,000** (founder's offer; priced high because mental/accountability work is draining). Position it as accountability + mentoring to finish a goal, NOT therapy or mental-health treatment. Refer anything clinical to professionals. Hardest sell of the three: the buyers are people who quit, so expect fewer, later sales. Sell only to people who completed the 7 days / are active in the club.
 - Cross-sell: B buyers who want a side income → A.
 
 **C. Muslim wives & intimacy, $27**
@@ -226,6 +228,10 @@ Only Hook 1 per idea in round 1 (£50 is too little to split).
 - Upsell 1 $47: Confident Again (body image, energy and self-confidence after babies; her own postpartum story; never advertised directly, so it carries no ad-policy risk).
 - Downsell $19: audio-only version of the upsell.
 - Membership $19/mo: private sisters' circle (monthly Q&A, ideally with a guest qualified teacher).
+- Top: 3-month 1-1 marriage mentoring, **$3,000** (founder's offer). Boundaries: "from one sister to another" mentoring, not fatwas, therapy or medical advice. Fiqh questions → qualified teacher; medical → doctor; any sign of abuse → safety resources/professionals. Keep a referral list ready before the first client.
+
+**How the 1-1 offers are sold (all three):** never as a checkout upsell. Use an "apply for mentorship" link at the end of the course, on the thank-you page and inside the membership → short application form → call. Founder picks who she works with (her style: picky, "if we're not aligned I'll tell you nicely"). Cap slots (e.g. 2–3 per offer at a time) and say so: real scarcity, and it protects her time with a baby.
+**Partner suggestion (not decided):** add a group programme between membership and 1-1 (e.g. 6–8 weeks, $297–$497). The course's growth path is group coaching → membership, and the jump from $29/mo to $5,000 is big. Group = more buyers, same hours.
 
 **Not decided by this section:** launch order and dates (after the sales pages are written).
 - `sales-pages/A-1-hour-faceless-channel-plan.md` is an early draft written BEFORE the product was decided. Rewrite it once the A product is confirmed. Its month-1 bonus (script prompts) becomes the $7 bump.
@@ -264,7 +270,7 @@ Main finding: nobody is selling a cheap, direct tiny course in any of the three 
 
 Course order: ✅ pains → ✅ audiences → ✅ hooks + competitor check → 🟡 **product + value ladder per idea (proposed, awaiting confirmation)** → ⏭️ beta sales pages → checkout + pixel → ads (5 texts, 5 headlines, 5 Twitter-style images) → test funnel → launch → read numbers.
 
-Open decisions: confirm A, B, C front-end products + ladders (section 14) · C round-1 hook: switch to "What Nobody Taught You Before Your Nikah"? · B price: partner recommends keeping $17 (research: no cheap direct competitor; we win on finishing, not price).
+Open decisions: confirm A, B, C front-end products + ladders (section 14; 1-1 tops added: A $5k, B $5k, C $3k) · add a group programme tier? · slot caps for 1-1 · C round-1 hook: switch to "What Nobody Taught You Before Your Nikah"? · B price: partner recommends keeping $17 (research: no cheap direct competitor; we win on finishing, not price).
 
 ## 17. Launch log
 
