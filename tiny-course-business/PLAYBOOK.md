@@ -2,7 +2,7 @@
 
 > **New chat? Start here.** You are the founder's business partner (Facebook ads, copywriting, buyer psychology).
 > We follow Sergio Estevez's *Tiny Course Method* (sections 1–8), plus our own decisions (sections 9–16; launch log in 17).
-> Read **section 16 "Where we are"** first, then sections 10–15 for the details. Next task: the Facebook Ad Library research in section 15.
+> Read **section 16 "Where we are"** first, then sections 10–15 for the details. Next task: product + value ladder per idea (section 14), using the research in section 15.
 
 Source: Sergio Estevez, *The Tiny Course Method* (PDF), "Lesson Zero / Big Picture" and "Tiny Course Beta" trainings.
 This file is our shared brain. Update the log at the bottom every time we launch, change or read numbers.
@@ -210,16 +210,32 @@ Only Hook 1 per idea in round 1 (£50 is too little to split).
 - B: $27 is the norm for procrastination/discipline mini-courses (5-day video + workbook). ⚠️ Competitor named "The 15-Minute Hustle Habit: Your Daily Action Reset" — too close to our name; need a clear difference (pep-talk angle?). Open question: keep B at $17 or move to $27.
 - C: very few offers; mostly scholarly fiqh courses/seminars (Al Balagh "Fiqh of Marital Intimacy" £9.99 live / £29.99 with recordings; two-evening seminars; general marriage course with an intimacy module). → Underserved; ours = short + practical, not a fiqh lecture.
 
-**Still to do — Facebook Ad Library (needs the founder's browser):**
-1. facebook.com/ads/library → Country: All → Ad category: All ads.
-2. Search: A "faceless YouTube", "YouTube automation" · B "stop procrastinating", "self discipline", "daily routine" · C "Muslim marriage", "Muslim wife", "halal intimacy".
-3. For each topic, note 2–3 advertisers whose ads have run the **longest** (likely profitable): their hook, offer, price.
-4. Click through to their sales pages: price, what's included, bonuses (bonuses = upsell ideas for us).
-5. Goal (PDF step 5): make our offers **shorter and broader** than theirs; find their argument and apply FLIP / FLOW / BREAK.
+**Facebook Ad Library research (done 19 Oct 2026, all countries, active ads):**
+Main finding: nobody is selling a cheap, direct tiny course in any of the three markets. Long runners are software, free webinars into expensive programmes, or physical products. Ad run time ≠ proof of profit (proxy only).
+
+*A. Faceless YouTube*
+- Amz Aspire — since 13 Nov 2024 — "Let our team handle the work while you watch your revenue grow" — done-for-you automation, price via DM. Ad: https://www.facebook.com/ads/library/?id=886514103549810 · Site: https://www.amzaspire.com
+- Vid.ai — since 15 Feb 2026 (5+ versions) — "Faceless videos that get views and print money on autopilot" — AI tool $39/$99/$199 per month, 50% off month 1. Ads: https://www.facebook.com/ads/library/?id=1244390340951245 · https://www.facebook.com/ads/library/?id=919352940996828 · https://www.facebook.com/ads/library/?id=1679774390051676 · Site: https://vid.ai/sale
+- FacelessReels — since 28 Mar 2026 (dozens of ads, run via creator pages) — "I finally launched my first faceless page. It took 5 minutes." + 3-step list — AI tool, price hidden until sign-up. Ads: https://www.facebook.com/ads/library/?id=1493562822297803 · https://www.facebook.com/ads/library/?id=2274928319704156 · Jay Navarro https://www.facebook.com/ads/library/?id=1505797734457482 · Darius Cole https://www.facebook.com/ads/library/?id=867036339718281 · Amy Chen https://www.facebook.com/ads/library/?id=1270926427764380 · Marcus Dalton https://www.facebook.com/ads/library/?id=26206724858982903 · Site: https://www.facelessreels.com
+- Newer Indian live masterclasses (2-hour, "limited seats"), not long runners: We Make Creators https://www.facebook.com/ads/library/?id=1223420306406171 · Grow with Rudy https://www.facebook.com/ads/library/?id=1996340824655199 · Pavan Agrawal https://www.facebook.com/ads/library/?id=1108025355016321
+- Our angle: shorter (1 hour, one-time $27, free tools) and broader ("second income from home without showing your face", not "YouTube automation"). FLIP: "AI tools can make the videos. They can't tell you what to make." Borrow: first-person "I finally launched my first…" hook + 3-step list for image ads. Bump/upsell idea: Shorts formats pack.
+
+*B. Stop starting & stopping*
+- Mani Vaya – FocusBlocks — since 29 Apr 2025 — "9-second forcing function", no willpower/discipline/habits/apps/courses needed — free masterclass → paid programme, aimed at entrepreneurs. Ads: https://www.facebook.com/ads/library/?id=1697158421678997 · https://www.facebook.com/ads/library/?id=1237824488343416 · Site: https://2000books.com/superfast
+- Success Insider (Tim Han) — since Aug 2026, 7+ ad sets — "Procrastination is NOT your enemy, it's your mind protecting you from fear" — free live masterclass → paid programme, "few seats left". Ads: https://www.facebook.com/ads/library/?id=1385812407024938 · https://www.facebook.com/ads/library/?id=1340893917722357 · https://www.facebook.com/ads/library/?id=1056834763564594 · https://www.facebook.com/ads/library/?id=1372401688335461 · Site: https://www.successinsider.vip/secure-masterclass-reg-now
+- Tony Robbins – Ultimate Edge — since 31 Jul 2026 — "The gap between knowing and doing isn't willpower. It's biology." — paid programme via long video ad. Ad: https://www.facebook.com/ads/library/?id=1019089750965218
+- Our angle: all three use the FLIP "it's not your discipline" → confirms our "You don't need…" section. Gap: nobody sells a cheap direct fix (all webinar → high ticket). Broader: anyone who starts and quits (parents, 9–5ers, side-hustlers). Don't compete on speed ("9 seconds" beats "7 minutes"); win on finishing. "Daily Reset" not used by them (the "15-Minute Hustle Habit" clash still stands). Keep $17 for round 1.
+
+*C. Muslim wives & intimacy*
+- "Muslim wife" = 0 active ads; "halal intimacy" ≈ 22, mostly men's supplements.
+- The Muslim Journal Company (UK) — since 10 Mar 2025 — "Transform your faith: elegant guides with insightful prompts" — physical Ultimate Marriage Bundle + Heart 2 Heart conversation cards (notebooks £9–£18). Ads: https://www.facebook.com/ads/library/?id=4079500398997748 · https://www.facebook.com/ads/library/?id=1798648070915734 · Shop: https://www.themuslimjournalcompany.com/collections/marriage-collection/
+- Qalam House India — since 7 Oct 2026 — "Every Muslim couple dreams of a marriage filled with love, mercy & understanding" — 2-eBook marriage bundle (sales page 404). Ad: https://www.facebook.com/ads/library/?id=1122600946910169
+- House of Hfinity — since 18 Oct 2026 — "Do we really know our rights when it comes to intimacy in marriage? …many of us were never taught them." — 4-week local "Halal Intimacy" course, booked by phone. Ad: https://www.facebook.com/ads/library/?id=1418411666476902
+- Our angle: no long-running intimacy courses at all → blue ocean AND/OR hard for Meta to approve; ad-safe framing matters most. Shorter + broader than Hfinity (7 days, worldwide, buy now). "Never taught" framing ≈ our Hook 2 → consider "What Nobody Taught You Before Your Nikah" as the round-1 hook. Bump idea: printable "Conversation Cards for Couples" $7.
 
 ## 16. Where we are (handover)
 
-Course order: ✅ pains → ✅ audiences → ⏭️ **hooks + competitor check (Ad Library)** → product + value ladder per idea → beta sales pages → checkout + pixel → ads (5 texts, 5 headlines, 5 Twitter-style images) → test funnel → launch → read numbers.
+Course order: ✅ pains → ✅ audiences → ✅ hooks + competitor check → ⏭️ **product + value ladder per idea** → beta sales pages → checkout + pixel → ads (5 texts, 5 headlines, 5 Twitter-style images) → test funnel → launch → read numbers.
 
 Open decisions: B price ($17 vs $27) · confirm A product (planning-stage slice) and ladder · design B and C products/ladders.
 
