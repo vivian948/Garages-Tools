@@ -1,5 +1,9 @@
 # Tiny Course Business — Playbook
 
+> **New chat? Start here.** You are the founder's business partner (Facebook ads, copywriting, buyer psychology).
+> We follow Sergio Estevez's *Tiny Course Method* (sections 1–8), plus our own decisions (sections 9–16; launch log in 17).
+> Read **section 16 "Where we are"** first, then sections 10–15 for the details. Next task: the Facebook Ad Library research in section 15.
+
 Source: Sergio Estevez, *The Tiny Course Method* (PDF), "Lesson Zero / Big Picture" and "Tiny Course Beta" trainings.
 This file is our shared brain. Update the log at the bottom every time we launch, change or read numbers.
 
@@ -155,7 +159,71 @@ Scored 1–5. Ad risk: 5 = safest.
 - C. Islamic intimacy for wives — **$27** (big pain) → *Closer in 7 Days: The Muslim Wife's Guide*
 Compare ideas by **% of ad spend recovered**, not raw sales. Budget: £50 per idea (ad account currency).
 
-## 12. Launch log
+## 12. Target audiences (agreed)
+
+Order used: pain → mental stage → physical → hook → product.
+
+**A. Faceless YouTube**
+- Pain: "I want a second income from home, but I have no time and I don't want to show my face." Hurts: stuck, tired, trapped, scared of being seen online.
+- Stages: (1) pain aware — needs extra income, hasn't thought of YouTube · **(2) problem aware — wants YouTube, no face, no time, hasn't started ← START** · (3) burned — bought courses, quit.
+- Physical: men + women worldwide, ~25–55, employed or parents. No gender niche. Exclude students.
+
+**B. Stop starting & stopping** (kept as originally written — founder's decision)
+- Pain: "I start things full of energy, then quit halfway and let myself down again." Hurts: guilt, wasted money, feeling they'll never achieve anything.
+- Stages: **(1) pain aware — "I never finish anything, it's just how I am" ← START** · (2) problem aware — lacks discipline · (3) solution aware — tried planners/apps/motivation videos.
+- Physical: men + women worldwide, 25–55, dreamers, side-hustlers, parents.
+- Note: weaker pain (a trait, not an outcome). Backup angles if it flops: "the dream you keep putting off" (regret/time) or "nobody pushes you" (pep-talk, ties to accountability membership).
+
+**C. Muslim wives & intimacy**
+- Pain: "I don't know how to enjoy intimacy with my husband in a halal way, and I have no one I can ask." Hurts: shame, distance, fear of disappointing him, loneliness.
+- Stages: **(1) pain aware — "we feel distant, something's missing" ← START (most ad-safe)** · (2) problem aware — never taught · (3) solution aware — searched, found only haram/explicit content.
+- Physical: married Muslim women worldwide, 18+, ~20–45.
+
+## 13. Hooks
+
+| Idea | Hook 1 (time) — test in round 1 | Hook 2 (curiosity) — backup |
+|---|---|---|
+| A | The 1-Hour Faceless Channel Plan | The Outlier Method: find video ideas that already get millions of views |
+| B | The 7-Minute Daily Reset | The "Just Start" Fix: why you keep quitting, and the 7-minute habit that stops it |
+| C | Closer in 7 Days: The Muslim Wife's Guide | What Nobody Taught You Before Your Nikah |
+
+Only Hook 1 per idea in round 1 (£50 is too little to split).
+
+## 14. Product rules + value ladder (draft)
+
+- Founder's full faceless YouTube course (web app) is **NOT** the $27 product — it's a later upsell.
+- The $27 product = one small slice: one pain, one quick win (~1 hour), mostly built already, ends with a natural "what's next?".
+- **Draft ladder for A** (not yet confirmed):
+  - Front end $27 — The 1-Hour Faceless Channel Plan: niche chosen + channel set up + 10 Outlier video ideas with titles (planning stage only, no production)
+  - Order bump $7 — Beginner Script Prompts (already written: `beginner-script-prompts.txt`)
+  - Upsell 1 $47 — Viral Script & Thumbnail Kit
+  - Downsell $19 — prompts + thumbnail template only
+  - Upsell 2 $197 — full faceless YouTube course (web app)
+  - Membership $29–49/mo — Faceless Accountability Club (weekly pep talks, check-ins, reviews)
+- Ladders for B and C: to design after competitor research.
+- `sales-pages/A-1-hour-faceless-channel-plan.md` is an early draft written BEFORE the product was decided — rewrite once the A product is confirmed.
+
+## 15. Competitor research
+
+**Web search (done, not Ad Library — can't see ad run time):**
+- A: faceless YouTube courses $10–$997, most $97–$250; expensive ones rely on income hype ("$500/day"); a $247 course reviewed 1.8/5. → $27 honest entry point stands out.
+- B: $27 is the norm for procrastination/discipline mini-courses (5-day video + workbook). ⚠️ Competitor named "The 15-Minute Hustle Habit: Your Daily Action Reset" — too close to our name; need a clear difference (pep-talk angle?). Open question: keep B at $17 or move to $27.
+- C: very few offers; mostly scholarly fiqh courses/seminars (Al Balagh "Fiqh of Marital Intimacy" £9.99 live / £29.99 with recordings; two-evening seminars; general marriage course with an intimacy module). → Underserved; ours = short + practical, not a fiqh lecture.
+
+**Still to do — Facebook Ad Library (needs the founder's browser):**
+1. facebook.com/ads/library → Country: All → Ad category: All ads.
+2. Search: A "faceless YouTube", "YouTube automation" · B "stop procrastinating", "self discipline", "daily routine" · C "Muslim marriage", "Muslim wife", "halal intimacy".
+3. For each topic, note 2–3 advertisers whose ads have run the **longest** (likely profitable): their hook, offer, price.
+4. Click through to their sales pages: price, what's included, bonuses (bonuses = upsell ideas for us).
+5. Goal (PDF step 5): make our offers **shorter and broader** than theirs; find their argument and apply FLIP / FLOW / BREAK.
+
+## 16. Where we are (handover)
+
+Course order: ✅ pains → ✅ audiences → ⏭️ **hooks + competitor check (Ad Library)** → product + value ladder per idea → beta sales pages → checkout + pixel → ads (5 texts, 5 headlines, 5 Twitter-style images) → test funnel → launch → read numbers.
+
+Open decisions: B price ($17 vs $27) · confirm A product (planning-stage slice) and ladder · design B and C products/ladders.
+
+## 17. Launch log
 
 | Date | Hook / course name | Pain / awareness stage | Price | Spend | Sales | Revenue | % of spend recovered | Decision |
 |---|---|---|---|---|---|---|---|---|
