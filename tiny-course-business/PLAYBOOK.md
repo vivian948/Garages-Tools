@@ -125,7 +125,31 @@ His math: ~200 buyers/month → 10–20 group-coaching members + 1–2 high-tick
 
 ---
 
-## 10. Launch log
+## 10. Founder profile (from questionnaire)
+
+- **Proof:** £140k+ from one faceless YouTube channel, 200k+ subs, 17M+ long-form views; started in a week, monetised in ~1 year.
+  150k TikTok followers (3 yrs ago), sold her first course there. Testimonial: Kobby — channel became full-time + launched an app.
+  Lost 80 → 56 kg in 3 months (home workouts 5×/week, fewer carbs, eggs/meat, water) and lost weight again after baby. No usable photos (modesty).
+- **Lived experience:** new mum, carer on long hours, stuck in a job, quitting things halfway, scared to start, burned by courses, needed constant pep talks but was too embarrassed to ask a mentor. Turning point: a breakup.
+- **Understands best:** new mums, carers, 9–5ers who want out, beginners making money online, stop-start people, dreamers scared of failure.
+- **Long-term topics she'd keep going with:** faceless YouTube, mindset/consistency, Islamic marital intimacy for wives, natural remedies.
+- **Constraints:** English, worldwide. Muslim revert — modest presentation, no body images. UK-based (assumed), Stripe + PayPal (business). Facebook ad account with light history, no restrictions, 1 page.
+- **Budget:** £50 per idea test → price tiny courses £10–£25.
+
+## 11. Idea scoring (round 1)
+
+Scored 1–5. Ad risk: 5 = safest.
+
+| Idea | Pain | Audience size | Her proof | Ad-policy safety | Back-end potential | Verdict |
+|---|---|---|---|---|---|---|
+| A. Faceless YouTube for busy people | 4 | 5 | 5 | 2 | 5 | **Test** |
+| B. Stop starting & stopping (consistency) | 3 | 5 | 4 | 5 | 5 | **Test** |
+| C. Islamic intimacy for wives | 5 | 4 | 3 | 2 | 4 | **Test** |
+| D. Postpartum / home weight loss | 4 | 5 | 4 | 2 | 3 | Backup |
+| E. Natural remedies | 3 | 5 | 2 | 1 | 3 | Later |
+| F. Building apps with AI | 3 | 3 | 3 | 4 | 3 | Later |
+
+## 12. Launch log
 
 | Date | Hook / course name | Pain / awareness stage | Price | Spend | Sales | Revenue | % of spend recovered | Decision |
 |---|---|---|---|---|---|---|---|---|
