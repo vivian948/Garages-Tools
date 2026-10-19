@@ -46,13 +46,13 @@ I started a faceless YouTube channel because I had no time and didn't want to be
 
 That one channel now has **217,000 subscribers** and **[exact views, e.g. 17,000,000] views**, and it has earned me **over £140,000**. It took me a year to get monetised, so I know what the slow start feels like.
 
-[Image: screenshot of earnings (YouTube Studio / AdSense) — ask founder]
-[Image: screenshot of channel subscribers + views — ask founder]
+[Image: screenshot of earnings (YouTube Studio / AdSense) — ask founder. Channel name, logo and niche must be cropped or blurred out]
+[Image: screenshot of subscribers + views — ask founder. Channel name, logo and niche must be cropped or blurred out]
 
 > "Started my YouTube channel because of you 2 years ago. Today it's my full-time gig and I even launched my own app as well. Just want to say THANK YOU 🙏"
 > — Kobby
 
-[Image: Kobby's testimonial screenshot — ask founder]
+[Image: Kobby's testimonial screenshot — ask founder. Hide the channel name or niche if shown]
 
 *Results vary. YouTube income depends on your niche, effort and consistency. This is a skill, not a get-rich-quick promise.*
 

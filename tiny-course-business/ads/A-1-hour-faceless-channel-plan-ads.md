@@ -125,9 +125,11 @@ Button: Learn More
 
 ## 5 images (X/Twitter-post style, square 1:1; check crop at 9:16)
 
+Channels stay secret: no channel name, logo, niche or screenshot in any image. Card photo = the founder's own photo; handle = her personal handle (must not link to her channels).
+
 Layout for every image: white card with the founder's photo, name and handle at the top left, 2–4 short lines, bright patterned background around it. [ask founder for the photo and her handle]
 
-1. Text: "Started a YouTube channel I never show my face on. 217,000 subscribers." Add a yellow highlight on "never show my face". Add a screenshot of the channel page if she approves.
+1. Text: "Started a YouTube channel I never show my face on. 217,000 subscribers." Add a yellow highlight on "never show my face". 
 2. Text: "AI can make the video. It can't tell you what to make." Yellow highlight on "can't tell you what to make".
 3. Text: "1. Find a topic that already gets views / 2. Make my own version / 3. Upload / 4. No face" plus a small arrow.
 4. Text: "Every free hour already has a job. So I planned my channel in one." Yellow highlight on "in one".
