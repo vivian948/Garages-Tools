@@ -231,7 +231,10 @@ Only Hook 1 per idea in round 1 (£50 is too little to split).
 - Top: 3-month 1-1 marriage mentoring, **$3,000** (founder's offer). Boundaries: "from one sister to another" mentoring, not fatwas, therapy or medical advice. Fiqh questions → qualified teacher; medical → doctor; any sign of abuse → safety resources/professionals. Keep a referral list ready before the first client.
 
 **How the 1-1 offers are sold (all three):** never as a checkout upsell. Use an "apply for mentorship" link at the end of the course, on the thank-you page and inside the membership → short application form → call. Founder picks who she works with (her style: picky, "if we're not aligned I'll tell you nicely"). Cap slots (e.g. 2–3 per offer at a time) and say so: real scarcity, and it protects her time with a baby.
-**Partner suggestion (not decided):** add a group programme between membership and 1-1 (e.g. 6–8 weeks, $297–$497). The course's growth path is group coaching → membership, and the jump from $29/mo to $5,000 is big. Group = more buyers, same hours.
+**Group programme (agreed 19 Oct 2026): 6 weeks, $500**, one for each idea, sitting between membership and 1-1. The jump from $29/mo to $5,000 is too big without it.
+- Membership vs group: the membership is ongoing support (weekly pep talk, check-ins, no end date, light on her time). The group is a fixed 6-week course with a start date, a set plan, live teaching + feedback, and one promised result (e.g. A: "your first videos uploaded in 6 weeks, with me checking your work").
+- Order: launch the membership first (easiest to run, recurring money). Run the first group round only when members ask for more help or the numbers justify it.
+- Full ladder per idea: front end → bump → upsell/downsell → membership → 6-week group ($500) → 3-month 1-1.
 
 **Not decided by this section:** launch order and dates (after the sales pages are written).
 - `sales-pages/A-1-hour-faceless-channel-plan.md` is an early draft written BEFORE the product was decided. Rewrite it once the A product is confirmed. Its month-1 bonus (script prompts) becomes the $7 bump.
@@ -270,7 +273,7 @@ Main finding: nobody is selling a cheap, direct tiny course in any of the three 
 
 Course order: ✅ pains → ✅ audiences → ✅ hooks + competitor check → 🟡 **product + value ladder per idea (proposed, awaiting confirmation)** → ⏭️ beta sales pages → checkout + pixel → ads (5 texts, 5 headlines, 5 Twitter-style images) → test funnel → launch → read numbers.
 
-Open decisions: confirm A, B, C front-end products + ladders (section 14; 1-1 tops added: A $5k, B $5k, C $3k) · add a group programme tier? · slot caps for 1-1 · C round-1 hook: switch to "What Nobody Taught You Before Your Nikah"? · B price: partner recommends keeping $17 (research: no cheap direct competitor; we win on finishing, not price).
+Open decisions: confirm A, B, C front-end products + ladders (section 14; 1-1 tops added: A $5k, B $5k, C $3k) · slot caps for 1-1 · C round-1 hook: switch to "What Nobody Taught You Before Your Nikah"? · B price: partner recommends keeping $17 (research: no cheap direct competitor; we win on finishing, not price).
 
 ## 17. Launch log
 
