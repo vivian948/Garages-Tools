@@ -133,7 +133,7 @@ His math: ~200 buyers/month → 10–20 group-coaching members + 1–2 high-tick
 - Write numbers in full on every page and ad: £140,000, 217,000 subscribers. Never "140k" or "200k+".
 - The founder has screenshots of all her proof (earnings, subscribers, views, testimonials). Ask her for them, and ask her for anything else you need (exact numbers, email, dates, files). Never guess or invent.
 
-- **Channels stay secret (founder's rule, 19 Oct 2026):** never reveal the channel name, link, logo, niche, video titles or thumbnails, on pages, ads or in the course. Any proof screenshot (earnings, subscribers, views, testimonials) must be cropped or blurred so the channel name, logo and niche can't be seen. Ads can say "a YouTube channel I never show my face on". Examples in the course should come from other people's channels, not hers. Card photo/handle = her own photo and personal handle, which must not link to the channels.
+- **Channels stay secret (founder's rule, 19 Oct 2026):** never reveal the channel name, link, logo, niche, video titles or thumbnails, on pages, ads or in the course. Proof screenshots are OPTIONAL (the course doesn't require them; Sergio shows none of his earnings), the exact numbers stay. If one is used it must be cropped or blurred so the channel name, logo and niche can't be seen. Ads can say "a YouTube channel I never show my face on". Examples in the course should come from other people's channels, not hers. Card photo/handle = her own photo and personal handle, which must not link to the channels.
 
 ## 10. Founder profile (from questionnaire)
 
