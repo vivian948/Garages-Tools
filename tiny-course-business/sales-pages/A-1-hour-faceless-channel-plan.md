@@ -104,6 +104,9 @@ No. Nothing in this plan needs your face, and you can use an AI voice later.
 **Does it teach me how to make the videos?**
 This plan covers the part most people get stuck on: what to make. Once you have your 10 ideas, making them is the easy part.
 
+**Does it include how to make the videos?**
+No. This plan covers what to make. You'll make the videos after.
+
 **Will I make money?**
 I can't promise that, and anyone who does is lying. I'll show you exactly how I choose videos. Results come from doing the work consistently.
 

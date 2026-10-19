@@ -111,7 +111,7 @@ Get it today for $27:
 
 ## 5 headlines (short; question, benefit or pain)
 
-1. Start a YouTube channel without showing your face
+1. Plan your faceless YouTube channel in one hour
 2. Your first 10 video ideas, in one hour
 3. Faceless channel plan: 1 hour, $27
 4. Don't know what to post? Start here
