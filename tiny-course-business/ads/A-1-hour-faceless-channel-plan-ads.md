@@ -45,33 +45,49 @@ I'm doing this:
 
 1. Find a topic that already gets views
 2. Make my own version with AI
-3. Upload it
-4. Never show my face
+3. Add an AI voice
+4. Upload it
+5. Never show my face, not once
 
 VS
 
 1. Buy another course
-2. Watch it for months
+2. Watch 12 modules
 3. Still not know what to post
-4. Quit
+4. Buy a tool that makes videos nobody clicks on
+5. Quit
 
-The one-hour plan that shows you how to find unlimited viral video ideas, plus your niche and your channel, is $27:
-[link]
+I also thought about selling a big course. But most people never finish those, and it's not what anyone needs on day one.
 
-**Text 3: flip**
-AI tools can make the videos.
-
-They can't tell you what to make.
-
-That's why most faceless channels go nowhere. Great tool, wrong topic.
-
-I use one simple rule: don't guess what will work. Find what's already working, and make my own version.
-
-I put that rule into a one-hour plan.
+So I made a 1-hour plan instead. It took me a year to get monetised the slow way. This is the shortcut I wish I'd had.
 
 In one sitting you pick your niche, set up your channel and learn how to find unlimited viral video ideas, the same method that got me millions of views.
 
-Get it today for $27:
+$27, backed by a 30-day money-back guarantee:
+[link]
+
+**Text 3: flip**
+AI tools can make the videos now.
+
+Voices. Scripts. Footage. Edits.
+Done in minutes.
+
+They can't tell you what to make.
+
+That's where most faceless channels die. Great tool. Wrong topic. Nobody clicks.
+
+Here's what I learned building a channel to 217,000 subscribers:
+
+Don't guess what will work.
+Find what's already working, and make your own version.
+
+That one rule is behind the videos that got me millions of views. I put it, plus how to set up your channel the right way, into a plan you can finish in one sitting.
+
+No camera. No face. No hours of editing.
+
+In one sitting you pick your niche, set up your channel and learn how to find unlimited viral video ideas, the same method that got me millions of views.
+
+Get it for $27, with a 30-day money-back guarantee:
 [link]
 
 **Text 4: no time**
@@ -79,15 +95,19 @@ Work. Kids. The house.
 
 Every free hour already has a job.
 
-So I wasn't going to film and edit every day.
+So filming and editing every day wasn't an option for me.
 
-I started a faceless YouTube channel instead, and it only took one hour to plan it.
+I started a faceless YouTube channel instead. No camera. No face. No hours of editing.
 
-I put that hour into a plan you can follow in one sitting.
+The hardest part wasn't making the videos. It was knowing what to make.
 
-You pick your niche, set up your channel and learn how to find unlimited viral video ideas, the same method that got me millions of views.
+That channel now has 217,000 subscribers.
 
-$27, today:
+So I put what I know into a 1-hour plan you can follow in one sitting.
+
+In one sitting you pick your niche, set up your channel and learn how to find unlimited viral video ideas, the same method that got me millions of views.
+
+$27, with a 30-day money-back guarantee:
 [link]
 
 **Text 5: second income**
@@ -98,13 +118,15 @@ And I didn't want my face online.
 
 So I started a YouTube channel where nobody ever sees me.
 
-It now has 217,000 subscribers.
+It took me a year to get monetised. A year of working it out the slow way.
 
-I put my method into a one-hour plan.
+Today it has 217,000 subscribers.
+
+I put the part that mattered most into a 1-hour plan: how to find video ideas that already work.
 
 In one sitting you pick your niche, set up your channel and learn how to find unlimited viral video ideas, the same method that got me millions of views.
 
-Get it today for $27:
+Get it today for $27, with a 30-day money-back guarantee:
 [link]
 
 ---
