@@ -36,6 +36,9 @@ Maybe this sounds like you:
 
 I know, because that was me.
 
+**[ Get The 1-Hour Faceless Channel Plan — $27 ]**
+*30-day money-back guarantee*
+
 ## 5. Proof — *Text block + Image block (testimonial screenshot)*
 
 I was a carer working long hours, stuck in a job I didn't want, jumping from one "next big thing" to another.
@@ -53,6 +56,9 @@ That one channel now has **217,000 subscribers** and **[exact views, e.g. 17,000
 
 *Results vary. YouTube income depends on your niche, effort and consistency. This is a skill, not a get-rich-quick promise.*
 
+**[ Get The 1-Hour Faceless Channel Plan — $27 ]**
+*30-day money-back guarantee*
+
 ## 6. The old way — *Text block*
 
 You don't need to show your face.
@@ -60,6 +66,9 @@ You don't need a camera, a microphone or editing skills to start.
 You don't need another expensive AI video tool.
 You don't need hours a day.
 You don't need a 12-module course you'll never finish.
+
+**[ Get The 1-Hour Faceless Channel Plan — $27 ]**
+*30-day money-back guarantee*
 
 ## 7. The new way — *Text block*
 
@@ -72,9 +81,10 @@ I call it the **Outlier Method**. It's how I pick every video, and it's how smal
 
 How does it work? That's what the plan is for, and it's not what most YouTube gurus tell you.
 
-## 8. Call to action — *Button block → links to the checkout page*
+## 8. Call to action — *Button block → links to the checkout page. Repeat this button (with the guarantee line under it) after the Pain, Proof, Old way and Guarantee sections and at the end*
 
 **[ Get The 1-Hour Faceless Channel Plan — $27 ]**
+*30-day money-back guarantee*
 
 In about an hour you will:
 1. Pick a faceless niche that already gets views, using the Outlier Method
@@ -83,11 +93,13 @@ In about an hour you will:
 
 ## 9. Guarantee — *Text block*
 
-If it's not for you, for any reason, email me at [your email] within 14 days and I'll refund you. No questions, no hard feelings.
+If it's not for you, for any reason, email me at [your email] within 30 days and I'll refund you. No questions, no hard feelings.
 
-## 10. Real scarcity
+## 10. Real scarcity — *Text block*
 
-*Skipped in round 1: no bonus yet (founder's decision). Add a monthly bonus later if the numbers justify it.*
+**[Month]-only bonus: 5 low-competition faceless niches, chosen by me, for you.**
+Watch the entire plan, then email me your feedback at [your email]. I'll personally send you 5 well-researched, low-competition faceless niches you can start with right now.
+Next month's bonus will be different.
 
 ## 11. FAQ — *FAQ block (or Text block)*
 
@@ -101,10 +113,7 @@ About an hour. You'll finish with your niche, your channel and the method for fi
 No. Nothing in this plan needs your face, and you can use an AI voice later.
 
 **Does it teach me how to make the videos?**
-This plan covers the part most people get stuck on: what to make. Once you can find ideas that already work, making the videos is the easy part.
-
-**Does it include how to make the videos?**
-No. This plan covers what to make. You'll make the videos after.
+No. This plan covers what to make, the part most people get stuck on. You'll make the videos after, and once you can find ideas that already work, that part is easier.
 
 **Will I make money?**
 I can't promise that, and anyone who does is lying. I'll show you exactly how I choose videos. Results come from doing the work consistently.
@@ -122,7 +131,8 @@ After you buy, you'll get an email with your access [within 48 hours].
 - The Outlier Method for finding video ideas that already get views
 - Channel setup, step by step
 - How to find unlimited viral video ideas, the method behind my millions of views
-- 14-day no-questions refund
+- **[Month]-only bonus:** 5 low-competition faceless niches, chosen by me for you (watch the plan, email me your feedback)
+- 30-day no-questions refund
 
 **[ Get The 1-Hour Faceless Channel Plan — $27 ]**
 
@@ -140,5 +150,7 @@ After you buy, you'll get an email with your access [within 48 hours].
 **Order confirmed! 🎉**
 Thank you for joining The 1-Hour Faceless Channel Plan. Your access will arrive by email within the next 48 hours.
 Check your spam folder just in case, and add [your email] to your contacts.
+
+**Your [Month] bonus:** watch the entire plan, then email me your feedback at [your email] and I'll personally send you 5 low-competition faceless niches to start with.
 
 [Facebook pixel: Purchase event on this page only. Check with Meta Pixel Helper.]
