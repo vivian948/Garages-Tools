@@ -18,8 +18,9 @@ So I started a YouTube channel where nobody ever sees me.
 
 It now has 217,000 subscribers.
 
-I put the first step into a one-hour plan:
-pick a niche, set up the channel, and leave with 10 video ideas that already get views.
+I put my method into a one-hour plan.
+
+In one sitting you pick your niche, set up your channel and leave with 10 video ideas that already get views.
 
 Get it today for $27:
 [link]
@@ -39,7 +40,7 @@ VS
 3. Still not know what to post
 4. Quit
 
-The one-hour plan that gets you to step 1 is $27:
+The one-hour plan that gives you your niche, your channel and 10 video ideas is $27:
 [link]
 
 **Text 3: flip**
@@ -92,8 +93,9 @@ I never looked back.
 
 That channel now has 217,000 subscribers.
 
-I turned the first step into a one-hour plan:
-pick a niche, set up the channel, and leave with 10 video ideas that already get views.
+I put my method into a one-hour plan.
+
+In one sitting you pick your niche, set up your channel and leave with 10 video ideas that already get views.
 
 Get it today for $27:
 [link]
