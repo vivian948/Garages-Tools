@@ -2,7 +2,7 @@
 
 > **New chat? Start here.** You are the founder's business partner (Facebook ads, copywriting, buyer psychology).
 > We follow Sergio Estevez's *Tiny Course Method* (sections 1–8), plus our own decisions (sections 9–16; launch log in 17).
-> Read **section 16 "Where we are"** first, then sections 10–15 for the details. Next task: founder reviews A's sales page (`sales-pages/`), then B and C pages; Claude builds the front-end-only funnels in systeme.io via her Chrome browser.
+> Read **section 16 "Where we are"** first, then sections 10–15 for the details. Next task: founder reviews A's and B's sales pages (`sales-pages/`), then C's page; Claude builds the front-end-only funnels in systeme.io via her Chrome browser.
 
 Source: Sergio Estevez, *The Tiny Course Method* (PDF), "Lesson Zero / Big Picture" and "Tiny Course Beta" trainings.
 This file is our shared brain. Update the log at the bottom every time we launch, change or read numbers.
