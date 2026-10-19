@@ -2,7 +2,7 @@
 
 > **New chat? Start here.** You are the founder's business partner (Facebook ads, copywriting, buyer psychology).
 > We follow Sergio Estevez's *Tiny Course Method* (sections 1–8), plus our own decisions (sections 9–16; launch log in 17).
-> Read **section 16 "Where we are"** first, then sections 10–15 for the details. Next task: founder confirms the products/ladders proposed in section 14 (and the C hook switch), then we write the beta sales pages.
+> Read **section 16 "Where we are"** first, then sections 10–15 for the details. Next task: write the beta sales pages (A, B, C) as copy ready to paste into systeme.io, and build the funnels there.
 
 Source: Sergio Estevez, *The Tiny Course Method* (PDF), "Lesson Zero / Big Picture" and "Tiny Course Beta" trainings.
 This file is our shared brain. Update the log at the bottom every time we launch, change or read numbers.
@@ -189,7 +189,7 @@ Order used: pain → mental stage → physical → hook → product.
 
 Only Hook 1 per idea in round 1 (£50 is too little to split).
 
-## 14. Product rules + value ladder (proposed 19 Oct 2026, waiting for founder to confirm)
+## 14. Product rules + value ladder (confirmed 19 Oct 2026)
 
 **Rules for every front-end product**
 - One pain, one quick win the buyer can get in about an hour (or a few minutes a day), mostly from what the founder already knows.
@@ -220,7 +220,7 @@ Only Hook 1 per idea in round 1 (£50 is too little to split).
 - Cross-sell: B buyers who want a side income → A.
 
 **C. Muslim wives & intimacy, $27**
-- Proposed name/hook for round 1: **What Nobody Taught You Before Your Nikah** (subtitle: *a 7-day guide for Muslim wives*).
+- Name/hook for round 1 (confirmed): **What Nobody Taught You Before Your Nikah** (subtitle: *a 7-day guide for Muslim wives*).
   - Why switch from "Closer in 7 Days": "never taught" is education framing with no promised intimacy result, so it's safer for Meta, it's curiosity-driven, and a new local advertiser (House of Hfinity) just started on the same angle. The subtitle keeps the time unit (IBS). Risk: "before your Nikah" could attract unmarried women. Ad targeting + the first line ("for married sisters") filter that.
 - Front end: **7 short lessons, one per day**, each with one small action: what Islam actually says about intimacy and your rights, adab, talking to your husband about what you need, affection outside the bedroom, and getting past shyness and shame.
   - Content guard: she's not a scholar. Frame it as "from one sister to another", cite reputable sources, and get the fiqh parts checked by a qualified teacher before delivery. No explicit content anywhere (ads, page or product).
@@ -271,9 +271,14 @@ Main finding: nobody is selling a cheap, direct tiny course in any of the three 
 
 ## 16. Where we are (handover)
 
-Course order: ✅ pains → ✅ audiences → ✅ hooks + competitor check → 🟡 **product + value ladder per idea (proposed, awaiting confirmation)** → ⏭️ beta sales pages → checkout + pixel → ads (5 texts, 5 headlines, 5 Twitter-style images) → test funnel → launch → read numbers.
+Course order: ✅ pains → ✅ audiences → ✅ hooks + competitor check → ✅ product + value ladder per idea → ⏭️ **beta sales pages (in systeme.io)** → checkout + pixel → ads (5 texts, 5 headlines, 5 Twitter-style images) → test funnel → launch → read numbers.
 
-Open decisions: confirm A, B, C front-end products + ladders (section 14; 1-1 tops added: A $5k, B $5k, C $3k) · slot caps for 1-1 · C round-1 hook: switch to "What Nobody Taught You Before Your Nikah"? · B price: partner recommends keeping $17 (research: no cheap direct competitor; we win on finishing, not price).
+Decisions 19 Oct 2026: A, B, C products + ladders confirmed. C renamed **What Nobody Taught You Before Your Nikah**. B stays $17. 6-week group $500. 1-1: A $5k, B $5k, C $3k.
+
+**Platform: systeme.io** (founder's choice; no page built from scratch). It covers sales page, checkout (Stripe + PayPal), order bump, one-click upsell/downsell, thank-you page, Facebook pixel, course hosting and membership. No systeme.io connector exists for Claude. Building inside it = Claude in Chrome (Claude Desktop app + Chrome extension) clicking through her account, or founder pastes copy written here.
+Funnel per idea: sales page → order form (+ $7 bump) → upsell $47 → downsell $19 → thank-you page (pixel Purchase event + "apply for mentorship" link).
+
+Open decisions: slot caps for 1-1.
 
 ## 17. Launch log
 
