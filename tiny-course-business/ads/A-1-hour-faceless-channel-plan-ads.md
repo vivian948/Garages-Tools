@@ -8,70 +8,7 @@ Link: [systeme.io sales page URL]. Same 5 texts on every image ad; the course sa
 
 ## 5 primary texts (price at the end)
 
-**Text 1: story**
-I wanted a second income from home.
-
-But I had no time.
-And I didn't want my face online.
-
-So I started a YouTube channel where nobody ever sees me.
-
-It now has 217,000 subscribers.
-
-I put my method into a one-hour plan.
-
-In one sitting you pick your niche, set up your channel and leave with 10 video ideas that already get views.
-
-Get it today for $27:
-[link]
-
-**Text 2: "this vs that" (his structure)**
-I'm doing this:
-
-1. Find a topic that already gets views
-2. Make my own version with AI
-3. Upload it
-4. Never show my face
-
-VS
-
-1. Buy another course
-2. Watch it for months
-3. Still not know what to post
-4. Quit
-
-The one-hour plan that gives you your niche, your channel and 10 video ideas is $27:
-[link]
-
-**Text 3: flip**
-AI tools can make the videos.
-
-They can't tell you what to make.
-
-That's why most faceless channels go nowhere. Great tool, wrong topic.
-
-I use one simple rule: don't guess what will work. Find what's already working, and make my own version.
-
-I put the whole method into a 1-hour plan.
-
-Get it today for $27:
-[link]
-
-**Text 4: no time**
-Work. Kids. The house.
-
-Every free hour already has a job.
-
-So I wasn't going to film and edit every day.
-
-I started a faceless YouTube channel instead, and I only ever needed an hour to plan it.
-
-That hour is now a plan you can follow in one sitting.
-
-$27, today:
-[link]
-
-**Text 5: founder's own story (use this as Text 1; strongest)**
+**Text 1: founder's own story (strongest)**
 I bought every side hustle that promised fast money.
 
 Bought it all. Tried it all.
@@ -100,10 +37,75 @@ In one sitting you pick your niche, set up your channel and leave with 10 video 
 Get it today for $27:
 [link]
 
-Headline for this one: Nothing worked. Then I found faceless.
-Image for this one: "Bought every side hustle." / "Nothing worked." / "Then I found faceless." (yellow highlight on "faceless")
+Headline: Nothing worked. Then I found faceless.
+Image: "Bought every side hustle." / "Nothing worked." / "Then I found faceless." (yellow highlight on "faceless")
 
-*Spare (not used in round 1): earlier "burned" text: I bought the courses / the tools / watched the videos / still didn't know what my first video should be.*
+**Text 2: "this vs that" (his structure)**
+I'm doing this:
+
+1. Find a topic that already gets views
+2. Make my own version with AI
+3. Upload it
+4. Never show my face
+
+VS
+
+1. Buy another course
+2. Watch it for months
+3. Still not know what to post
+4. Quit
+
+The one-hour plan that gives you your niche, your channel and 10 video ideas is $27:
+[link]
+
+**Text 3: flip**
+AI tools can make the videos.
+
+They can't tell you what to make.
+
+That's why most faceless channels go nowhere. Great tool, wrong topic.
+
+I use one simple rule: don't guess what will work. Find what's already working, and make my own version.
+
+I put that rule into a one-hour plan.
+
+In one sitting you pick your niche, set up your channel and leave with 10 video ideas that already get views.
+
+Get it today for $27:
+[link]
+
+**Text 4: no time**
+Work. Kids. The house.
+
+Every free hour already has a job.
+
+So I wasn't going to film and edit every day.
+
+I started a faceless YouTube channel instead, and it only took one hour to plan it.
+
+I put that hour into a plan you can follow in one sitting.
+
+You pick your niche, set up your channel and leave with 10 video ideas that already get views.
+
+$27, today:
+[link]
+
+**Text 5: second income**
+I wanted a second income from home.
+
+But I had no time.
+And I didn't want my face online.
+
+So I started a YouTube channel where nobody ever sees me.
+
+It now has 217,000 subscribers.
+
+I put my method into a one-hour plan.
+
+In one sitting you pick your niche, set up your channel and leave with 10 video ideas that already get views.
+
+Get it today for $27:
+[link]
 
 ---
 
