@@ -151,11 +151,13 @@ Channels stay secret: no channel name, logo, niche or screenshot in any image. C
 
 Layout for every image: white card with the founder's photo, name and handle at the top left, 2–4 short lines, bright patterned background around it. [ask founder for the photo and her handle]
 
-1. Text: "Started a YouTube channel I never show my face on. 217,000 subscribers." Add a yellow highlight on "never show my face". 
-2. Text: "AI can make the video. It can't tell you what to make." Yellow highlight on "can't tell you what to make".
-3. Text: "1. Find a topic that already gets views / 2. Make my own version / 3. Upload / 4. No face" plus a small arrow.
-4. Text: "Every free hour already has a job. So I planned my channel in one." Yellow highlight on "in one".
-5. Text: "Bought the courses. Bought the tools. Still don't know what to post." Red circle on "still don't know what to post".
+Card photo = founder's Instagram profile photo; name "Vivian"; handle "@vivianaigirl_". No verified badge, date, likes or other extras. Each card has 4–6 short lines like Sergio's, and some have a yellow caption banner under the card.
+
+1. (for Text 1) "Bought every side hustle that promised fast money." / "Nothing worked." / "I started to doubt myself." / "Then I found faceless YouTube." / "Never looked back." Yellow highlight on "faceless YouTube".
+2. (for Text 3) "AI can make the video in minutes." / "It can't tell you what to make." / "That's why most faceless channels go nowhere." / "Find what's already working. Make your own version." Yellow highlight on "can't tell you what to make". Yellow banner under the card: "How I pick every video".
+3. (for Text 2) "Here's what's working for me:" / "1. Find a topic that already gets views" / "2. Make my own version with AI" / "3. Add an AI voice" / "4. Upload it" / "5. Never show my face". Hand-drawn arrow pointing to line 5.
+4. (for Text 4) "Work. Kids. The house." / "Every free hour already has a job." / "So filming and editing every day wasn't an option." / "I started a faceless channel and planned it in one hour." / "It now has 217,000 subscribers." Yellow highlight on "planned it in one hour".
+5. (for Text 5) "I wanted a second income from home." / "No time. No face online." / "So I started a YouTube channel nobody sees me on." / "It took a year to get monetised." / "Today it has 217,000 subscribers." Yellow highlight on "nobody sees me on". Yellow banner under the card: "Plan your faceless channel in 1 hour".
 
 ---
 
