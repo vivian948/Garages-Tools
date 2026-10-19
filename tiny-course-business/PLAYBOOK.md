@@ -129,9 +129,13 @@ His math: ~200 buyers/month → 10–20 group-coaching members + 1–2 high-tick
 
 ---
 
+**Working rules for every chat (founder's instructions):**
+- Write numbers in full on every page and ad: £140,000, 217,000 subscribers. Never "140k" or "200k+".
+- The founder has screenshots of all her proof (earnings, subscribers, views, testimonials). Ask her for them, and ask her for anything else you need (exact numbers, email, dates, files). Never guess or invent.
+
 ## 10. Founder profile (from questionnaire)
 
-- **Proof:** £140k+ from one faceless YouTube channel, 200k+ subs, 17M+ long-form views; started in a week, monetised in ~1 year.
+- **Proof:** £140,000+ from one faceless YouTube channel, 217,000 subscribers, 17,000,000+ long-form views (exact views to confirm with founder); started in a week, monetised in ~1 year.
   150k TikTok followers (3 yrs ago), sold her first course there. Testimonial: Kobby — channel became full-time + launched an app.
   Lost 80 → 56 kg in 3 months (home workouts 5×/week, fewer carbs, eggs/meat, water) and lost weight again after baby. No usable photos (modesty).
 - **Lived experience:** new mum, carer on long hours, stuck in a job, quitting things halfway, scared to start, burned by courses, needed constant pep talks but was too embarrassed to ask a mentor. Turning point: a breakup.
@@ -207,7 +211,7 @@ Only Hook 1 per idea in round 1 (£50 is too little to split).
 - Downsell $19: Title & Thumbnail Templates only.
 - Upsell 2 $197: full faceless YouTube course (web app).
 - Membership $29/mo: Faceless Accountability Club (weekly pep talk, check-ins, channel reviews).
-- Top: 3-month 1-1 mentorship, **$5,000** (founder's offer). Strongest proof of the three (£140k channel).
+- Top: 3-month 1-1 mentorship, **$5,000** (founder's offer). Strongest proof of the three (£140,000 channel).
 
 **B. The 7-Minute Daily Reset, $17**
 - Front end: **7 short audio pep talks (~7 min each), one per day**, each ending with one tiny action, plus a one-page "Finish Line" sheet. Goal: finish ONE small thing in 7 days.

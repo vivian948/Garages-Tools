@@ -2,7 +2,8 @@
 
 Round-1 funnel only: **sales page → checkout → thank-you page**. No bump, upsell or mentorship link until the numbers say so (playbook section 7).
 Built in systeme.io. White background, black text, mobile first. Each section says which systeme.io block to use.
-[Square brackets] = things to fill in.
+[Square brackets] = things to fill in. Anything marked "ask founder": ask her for it (numbers, screenshots, email, dates). Never guess.
+Numbers are always written in full: £140,000, 217,000 subscribers, never "140k".
 
 ---
 
@@ -40,12 +41,15 @@ I know, because that was me.
 I was a carer working long hours, stuck in a job I didn't want, jumping from one "next big thing" to another.
 I started a faceless YouTube channel because I had no time and didn't want to be on camera.
 
-That one channel now has **200,000+ subscribers** and **17 million+ views**, and it has earned me **over £140,000**. It took me a year to get monetised, so I know what the slow start feels like.
+That one channel now has **217,000 subscribers** and **[exact views, e.g. 17,000,000] views**, and it has earned me **over £140,000**. It took me a year to get monetised, so I know what the slow start feels like.
+
+[Image: screenshot of earnings (YouTube Studio / AdSense) — ask founder]
+[Image: screenshot of channel subscribers + views — ask founder]
 
 > "Started my YouTube channel because of you 2 years ago. Today it's my full-time gig and I even launched my own app as well. Just want to say THANK YOU 🙏"
 > — Kobby
 
-[Image: Kobby's screenshot]
+[Image: Kobby's testimonial screenshot — ask founder]
 
 *Results vary. YouTube income depends on your niche, effort and consistency. This is a skill, not a get-rich-quick promise.*
 
