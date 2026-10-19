@@ -2,7 +2,7 @@
 
 > **New chat? Start here.** You are the founder's business partner (Facebook ads, copywriting, buyer psychology).
 > We follow Sergio Estevez's *Tiny Course Method* (sections 1–8), plus our own decisions (sections 9–16; launch log in 17).
-> Read **section 16 "Where we are"** first, then sections 10–15 for the details. Next task: write the beta sales pages (A, B, C) as copy ready to paste into systeme.io, and build the funnels there.
+> Read **section 16 "Where we are"** first, then sections 10–15 for the details. Next task: founder reviews A's sales page (`sales-pages/`), then B and C pages; build front-end-only funnels in systeme.io.
 
 Source: Sergio Estevez, *The Tiny Course Method* (PDF), "Lesson Zero / Big Picture" and "Tiny Course Beta" trainings.
 This file is our shared brain. Update the log at the bottom every time we launch, change or read numbers.
@@ -237,7 +237,7 @@ Only Hook 1 per idea in round 1 (£50 is too little to split).
 - Full ladder per idea: front end → bump → upsell/downsell → membership → 6-week group ($500) → 3-month 1-1.
 
 **Not decided by this section:** launch order and dates (after the sales pages are written).
-- `sales-pages/A-1-hour-faceless-channel-plan.md` is an early draft written BEFORE the product was decided. Rewrite it once the A product is confirmed. Its month-1 bonus (script prompts) becomes the $7 bump.
+- `sales-pages/A-1-hour-faceless-channel-plan.md`: rewritten 19 Oct 2026 for the confirmed product (planning stage only), front-end funnel only.
 
 ## 15. Competitor research
 
@@ -276,7 +276,7 @@ Course order: ✅ pains → ✅ audiences → ✅ hooks + competitor check → �
 Decisions 19 Oct 2026: A, B, C products + ladders confirmed. C renamed **What Nobody Taught You Before Your Nikah**. B stays $17. 6-week group $500. 1-1: A $5k, B $5k, C $3k.
 
 **Platform: systeme.io** (founder's choice; no page built from scratch). It covers sales page, checkout (Stripe + PayPal), order bump, one-click upsell/downsell, thank-you page, Facebook pixel, course hosting and membership. No systeme.io connector exists for Claude. Building inside it = Claude in Chrome (Claude Desktop app + Chrome extension) clicking through her account, or founder pastes copy written here.
-Funnel per idea: sales page → order form (+ $7 bump) → upsell $47 → downsell $19 → thank-you page (pixel Purchase event + "apply for mentorship" link).
+**Round-1 funnel = front end only:** sales page → checkout (email + card + PayPal) → thank-you page (pixel Purchase event). No bump, upsell, downsell, membership or mentorship link until the numbers say so (section 7: add them at 30%+ of spend recovered). The ladder in section 14 is the plan for later, not round 1.
 
 Open decisions: slot caps for 1-1.
 

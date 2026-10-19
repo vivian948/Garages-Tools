@@ -1,117 +1,139 @@
-# Beta sales page — A. The 1-Hour Faceless Channel Plan ($27)
+# Beta sales page: A. The 1-Hour Faceless Channel Plan ($27)
 
-Structure follows the Tiny Course Method page order. White background, black text, mobile first.
-[Square brackets] = things to fill in or design.
+Round-1 funnel only: **sales page → checkout → thank-you page**. No bump, upsell or mentorship link until the numbers say so (playbook section 7).
+Built in systeme.io. White background, black text, mobile first. Each section says which systeme.io block to use.
+[Square brackets] = things to fill in.
 
 ---
 
-## 1. Course name (top of page)
+## 1. Course name — *Headline block*
 
 # The 1-Hour Faceless Channel Plan
-### Start a YouTube channel without showing your face, even if you only have an hour.
+### Pick your niche, set up your channel and leave with 10 proven video ideas, in one sitting. No face, no filming.
 
-## 2. Mockup image
+## 2. Mockup — *Image block*
 
-[Canva: simple 3D cover or diagram titled "The 1-Hour Faceless Channel Plan".
-Diagram idea: 5 boxes in a row → Find a viral topic → Title → Thumbnail → Script → Voice & video.
+[Canva: simple cover titled "The 1-Hour Faceless Channel Plan" with a 3-step diagram underneath:
+Pick a niche → Set up the channel → 10 proven video ideas.
 Plain colours, readable on a phone.]
 
-## 3. Problem / headline
+## 3. Problem — *Headline + Text block*
 
-## Want to earn from YouTube, but you don't want to show your face and you don't have hours to spare?
+## Want a second income from home, but you don't want to show your face and you don't have hours to spare?
 
-You're not alone. Most people who want a channel never even start.
+Most people who want a YouTube channel never upload a single video. Not because they're lazy, but because they don't know what to make.
 
-## 4. Pain
+## 4. Pain — *Text block (bullet list)*
 
 Maybe this sounds like you:
 
-- You've watched "how to start a YouTube channel" videos for months, but you still haven't uploaded anything.
-- You work long hours, look after kids or care for someone, and the idea of filming and editing every day feels impossible.
+- You've watched "how to start a faceless channel" videos for months and still haven't started.
+- You've opened YouTube Studio, stared at it, and closed it again.
+- You work long hours, look after kids or care for someone, and every free hour already has a job.
 - You don't want your face, your family or your home online.
-- You've already bought courses that promised fast money, and you were left more confused than before.
-- You start full of energy, then life gets busy and the channel quietly dies.
+- You've bought courses or AI tools before, and you still don't know what your first video should be.
 
 I know, because that was me.
 
-## 5. Proof
+## 5. Proof — *Text block + Image block (testimonial screenshot)*
 
 I was a carer working long hours, stuck in a job I didn't want, jumping from one "next big thing" to another.
 I started a faceless YouTube channel because I had no time and didn't want to be on camera.
 
-Today that one channel has **200,000+ subscribers** and **17 million+ views**, and it has earned me **over £140,000**.
+That one channel now has **200,000+ subscribers** and **17 million+ views**, and it has earned me **over £140,000**. It took me a year to get monetised, so I know what the slow start feels like.
 
 > "Started my YouTube channel because of you 2 years ago. Today it's my full-time gig and I even launched my own app as well. Just want to say THANK YOU 🙏"
 > — Kobby
 
-*Results vary. YouTube income depends on your effort, niche and consistency. This is not a get-rich-quick promise; it's a skill.*
+[Image: Kobby's screenshot]
 
-## 6. The old way — "You don't need…"
+*Results vary. YouTube income depends on your niche, effort and consistency. This is a skill, not a get-rich-quick promise.*
+
+## 6. The old way — *Text block*
 
 You don't need to show your face.
-You don't need expensive cameras or microphones.
-You don't need to be good at editing.
-You don't need to spend hours a day on it.
-You don't need another 12-module course you'll never finish.
+You don't need a camera, a microphone or editing skills to start.
+You don't need another expensive AI video tool.
+You don't need hours a day.
+You don't need a 12-module course you'll never finish.
 
-## 7. The new way
+## 7. The new way — *Text block*
 
-What you need is a **simple plan you can follow in one sitting**, built around one idea:
-**don't guess what will work. Find what's already working and make your own version of it.**
+AI tools can make the videos. **They can't tell you what to make.**
 
-I call it the **Outlier Method**. It's how I pick every video topic, and it's how small, unknown channels get millions of views.
+What you need is a plan for **what** to make before you worry about **how** to make it. I use one simple rule for this:
+**don't guess what will work. Find what's already working, and make your own version of it.**
 
-Wondering how it works? That's what the training is for. And it's not what most "YouTube gurus" tell you.
+I call it the **Outlier Method**. It's how I pick every video, and it's how small, unknown channels get millions of views.
 
-## 8. Call to action
+How does it work? That's what the plan is for, and it's not what most YouTube gurus tell you.
+
+## 8. Call to action — *Button block → links to the checkout page*
 
 **[ Get The 1-Hour Faceless Channel Plan — $27 ]**
 
-Inside, step by step:
-1. How to spot a topic that's already proven to get views (the Outlier Method)
-2. How to set up your channel so YouTube actually shows your videos
-3. How to make a title and thumbnail people want to click
-4. How to write a script with AI that sounds like you and doesn't copy anyone
-5. How to turn your script into a finished video without showing your face
+In about an hour you will:
+1. Pick a faceless niche that already gets views, using the Outlier Method
+2. Set up your channel the right way, so YouTube knows who to show it to
+3. Leave with **10 proven video ideas with titles**, ready to make
 
-Watch it in about an hour. Make your first video the same week.
-
-## 9. Guarantee
+## 9. Guarantee — *Text block*
 
 If it's not for you, for any reason, email me at [your email] within 14 days and I'll refund you. No questions, no hard feelings.
 
-## 10. Real scarcity
+## 10. Real scarcity — *Text block*
 
-**This month's bonus ([Month] only):** my **Beginner Script Prompts**, the exact copy-and-paste prompts I use to turn a viral video's formula into my own script.
+**[Month]-only bonus:** 5 faceless Shorts formats that get views, so you can post something while you work on your long videos.
 Next month's bonus will be different.
 
-## 11. FAQ
+## 11. FAQ — *FAQ block (or Text block)*
 
 **I've never made a YouTube video. Is this for me?**
 Yes. It's made for complete beginners.
 
 **How much time do I need?**
-About an hour to watch the plan, then a few hours a week to make videos.
+About an hour. You'll finish with your niche, your channel and your first 10 ideas.
 
-**Do I need to show my face or voice?**
-No. You can use an AI voice, and I show you how.
+**Do I need to show my face or use my voice?**
+No. Nothing in this plan needs your face, and you can use an AI voice later.
+
+**Does it teach me how to make the videos?**
+This plan covers the part most people get stuck on: what to make. Once you have your 10 ideas, making them is the easy part.
 
 **Will I make money?**
-I can't promise that, and anyone who does is lying. I'll show you exactly what I did. The results come from doing the work consistently.
+I can't promise that, and anyone who does is lying. I'll show you exactly how I choose videos. Results come from doing the work consistently.
 
-**What if I've bought courses before and they didn't work?**
-So did I. That's why this one is short, honest and focused on one plan you can actually finish.
+**I've bought courses before and they didn't work. Why is this different?**
+So did I. This one is short, it costs less than a takeaway, and you finish it in one sitting.
 
 **How do I get access?**
-Right after you buy, you'll get an email with your access [within 24–48 hours].
+After you buy, you'll get an email with your access [within 48 hours].
 
-## 12. Recap
+## 12. Recap — *Text block + Button block*
 
 **If you scrolled straight to the bottom, here's what you get:**
 - The 1-Hour Faceless Channel Plan (video training)
-- The Outlier Method for finding topics that already get views
-- Channel setup, titles, thumbnails, AI scripts and faceless video, step by step
-- **Bonus ([Month] only):** Beginner Script Prompts
+- The Outlier Method for finding video ideas that already get views
+- Channel setup, step by step
+- Your first 10 proven video ideas with titles
+- **[Month]-only bonus:** 5 faceless Shorts formats
 - 14-day no-questions refund
 
 **[ Get The 1-Hour Faceless Channel Plan — $27 ]**
+
+---
+
+## Checkout page (systeme.io order form)
+
+- Headline: **The 1-Hour Faceless Channel Plan**
+- Subheadline: Your niche, your channel and 10 proven video ideas, in one sitting.
+- Fields: email + first name only. Card (Stripe) + PayPal.
+- No order bump yet.
+
+## Thank-you page
+
+**Order confirmed! 🎉**
+Thank you for joining The 1-Hour Faceless Channel Plan. Your access will arrive by email within the next 48 hours.
+Check your spam folder just in case, and add [your email] to your contacts.
+
+[Facebook pixel: Purchase event on this page only. Check with Meta Pixel Helper.]
