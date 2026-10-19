@@ -2,7 +2,7 @@
 
 > **New chat? Start here.** You are the founder's business partner (Facebook ads, copywriting, buyer psychology).
 > We follow Sergio Estevez's *Tiny Course Method* (sections 1–8), plus our own decisions (sections 9–16; launch log in 17).
-> Read **section 16 "Where we are"** first, then sections 10–15 for the details. Next task: product + value ladder per idea (section 14), using the research in section 15.
+> Read **section 16 "Where we are"** first, then sections 10–15 for the details. Next task: founder confirms the products/ladders proposed in section 14 (and the C hook switch), then we write the beta sales pages.
 
 Source: Sergio Estevez, *The Tiny Course Method* (PDF), "Lesson Zero / Big Picture" and "Tiny Course Beta" trainings.
 This file is our shared brain. Update the log at the bottom every time we launch, change or read numbers.
@@ -189,19 +189,46 @@ Order used: pain → mental stage → physical → hook → product.
 
 Only Hook 1 per idea in round 1 (£50 is too little to split).
 
-## 14. Product rules + value ladder (draft)
+## 14. Product rules + value ladder (proposed 19 Oct 2026, waiting for founder to confirm)
 
-- Founder's full faceless YouTube course (web app) is **NOT** the $27 product — it's a later upsell.
-- The $27 product = one small slice: one pain, one quick win (~1 hour), mostly built already, ends with a natural "what's next?".
-- **Draft ladder for A** (not yet confirmed):
-  - Front end $27 — The 1-Hour Faceless Channel Plan: niche chosen + channel set up + 10 Outlier video ideas with titles (planning stage only, no production)
-  - Order bump $7 — Beginner Script Prompts (already written: `beginner-script-prompts.txt`)
-  - Upsell 1 $47 — Viral Script & Thumbnail Kit
-  - Downsell $19 — prompts + thumbnail template only
-  - Upsell 2 $197 — full faceless YouTube course (web app)
-  - Membership $29–49/mo — Faceless Accountability Club (weekly pep talks, check-ins, reviews)
-- Ladders for B and C: to design after competitor research.
-- `sales-pages/A-1-hour-faceless-channel-plan.md` is an early draft written BEFORE the product was decided — rewrite once the A product is confirmed.
+**Rules for every front-end product**
+- One pain, one quick win the buyer can get in about an hour (or a few minutes a day), mostly from what the founder already knows.
+- Sell first, build second (beta). Only the front end is built for round 1. Bumps, upsells and membership get built **only when the numbers say so** (30–70% of spend recovered = add bump/upsells; section 7).
+- Every front end must end with a natural "what's next?" that points to the next rung.
+- Founder's full faceless YouTube course (web app) is **NOT** a $27 product. It's the high-ticket upsell for A.
+- Faceless delivery for all three: screen recording or slides + her voice, plus a PDF.
+
+**A. The 1-Hour Faceless Channel Plan, $27**
+- Front end: in one sitting, the buyer picks a niche with the Outlier Method, sets up the channel properly, and leaves with **10 proven video ideas with titles**. Planning stage only, no production.
+  - Why: the Ad Library shows everyone selling tools that *make* videos. Nobody sells *what to make*. FLIP: "AI tools can make the videos. They can't tell you what to make." The quick win is a list of 10 ideas, and the natural next question is "how do I turn these into videos?"
+- Scarcity bonus (month 1): 5 faceless Shorts formats that get views (from the research bump idea; small to make).
+- Order bump $7: Beginner Script Prompts (already written: `beginner-script-prompts.txt`).
+- Upsell 1 $47: First Video Kit (script → AI voice → edit → thumbnail, first video finished in a weekend).
+- Downsell $19: Title & Thumbnail Templates only.
+- Upsell 2 $197: full faceless YouTube course (web app).
+- Membership $29/mo: Faceless Accountability Club (weekly pep talk, check-ins, channel reviews).
+
+**B. The 7-Minute Daily Reset, $17**
+- Front end: **7 short audio pep talks (~7 min each), one per day**, each ending with one tiny action, plus a one-page "Finish Line" sheet. Goal: finish ONE small thing in 7 days.
+  - Why: competitors all say "it's not your discipline" and then sell a webinar into high ticket. Nobody sells a cheap, direct fix. We don't fight on speed ("9 seconds" beats "7 minutes"); we win on **finishing**. The pep-talk format is her own story (she needed a pep-talk mentor and was too embarrassed to ask) and clearly separates us from "The 15-Minute Hustle Habit". It's quick to make: audio only.
+- Order bump $7: 30-Day Finish Tracker (printable).
+- Upsell 1 $47: The 30-Day Finish Plan (one goal broken into milestones, 30 pep talks).
+- Downsell $19: the 30 pep talks only (no plan or workbook).
+- Membership $19–29/mo: The Pep Talk Club (weekly live pep talk + check-ins). This is the strongest membership idea of the three, because the pain itself is "I need someone to keep me going".
+- Cross-sell: B buyers who want a side income → A.
+
+**C. Muslim wives & intimacy, $27**
+- Proposed name/hook for round 1: **What Nobody Taught You Before Your Nikah** (subtitle: *a 7-day guide for Muslim wives*).
+  - Why switch from "Closer in 7 Days": "never taught" is education framing with no promised intimacy result, so it's safer for Meta, it's curiosity-driven, and a new local advertiser (House of Hfinity) just started on the same angle. The subtitle keeps the time unit (IBS). Risk: "before your Nikah" could attract unmarried women. Ad targeting + the first line ("for married sisters") filter that.
+- Front end: **7 short lessons, one per day**, each with one small action: what Islam actually says about intimacy and your rights, adab, talking to your husband about what you need, affection outside the bedroom, and getting past shyness and shame.
+  - Content guard: she's not a scholar. Frame it as "from one sister to another", cite reputable sources, and get the fiqh parts checked by a qualified teacher before delivery. No explicit content anywhere (ads, page or product).
+- Order bump $7: Conversation Cards for Couples (printable; the only long runner in this market sells conversation cards, as physical products).
+- Upsell 1 $47: Confident Again (body image, energy and self-confidence after babies; her own postpartum story; never advertised directly, so it carries no ad-policy risk).
+- Downsell $19: audio-only version of the upsell.
+- Membership $19/mo: private sisters' circle (monthly Q&A, ideally with a guest qualified teacher).
+
+**Not decided by this section:** launch order and dates (after the sales pages are written).
+- `sales-pages/A-1-hour-faceless-channel-plan.md` is an early draft written BEFORE the product was decided. Rewrite it once the A product is confirmed. Its month-1 bonus (script prompts) becomes the $7 bump.
 
 ## 15. Competitor research
 
@@ -235,9 +262,9 @@ Main finding: nobody is selling a cheap, direct tiny course in any of the three 
 
 ## 16. Where we are (handover)
 
-Course order: ✅ pains → ✅ audiences → ✅ hooks + competitor check → ⏭️ **product + value ladder per idea** → beta sales pages → checkout + pixel → ads (5 texts, 5 headlines, 5 Twitter-style images) → test funnel → launch → read numbers.
+Course order: ✅ pains → ✅ audiences → ✅ hooks + competitor check → 🟡 **product + value ladder per idea (proposed, awaiting confirmation)** → ⏭️ beta sales pages → checkout + pixel → ads (5 texts, 5 headlines, 5 Twitter-style images) → test funnel → launch → read numbers.
 
-Open decisions: B price ($17 vs $27) · confirm A product (planning-stage slice) and ladder · design B and C products/ladders.
+Open decisions: confirm A, B, C front-end products + ladders (section 14) · C round-1 hook: switch to "What Nobody Taught You Before Your Nikah"? · B price: partner recommends keeping $17 (research: no cheap direct competitor; we win on finishing, not price).
 
 ## 17. Launch log
 
