@@ -70,19 +70,38 @@ That hour is now a plan you can follow in one sitting.
 $27, today:
 [link]
 
-**Text 5: burned**
-I bought the courses.
-I bought the tools.
-I watched the videos.
+**Text 5: founder's own story (use this as Text 1; strongest)**
+I bought every side hustle that promised fast money.
 
-And I still didn't know what my first video should be.
+Bought it all. Tried it all.
+Nothing worked.
 
-That's the part nobody teaches. So I made it the whole plan:
+I started to doubt I could even do this.
 
-Niche. Channel setup. 10 video ideas that already get views.
+I was scared. Angry at the world.
+Miserable at a job I hated.
+It felt like life kept knocking me down.
 
-One sitting. No face. $27:
+Then I found YouTube.
+
+I tried it the usual way, with my face on camera, and I burned out. I barely had any time between work and life.
+
+So I looked deeper and found faceless.
+
+I never looked back.
+
+That channel now has 217,000 subscribers.
+
+I turned the first step into a one-hour plan:
+pick a niche, set up the channel, and leave with 10 video ideas that already get views.
+
+Get it today for $27:
 [link]
+
+Headline for this one: Nothing worked. Then I found faceless.
+Image for this one: "Bought every side hustle." / "Nothing worked." / "Then I found faceless." (yellow highlight on "faceless")
+
+*Spare (not used in round 1): earlier "burned" text: I bought the courses / the tools / watched the videos / still didn't know what my first video should be.*
 
 ---
 
