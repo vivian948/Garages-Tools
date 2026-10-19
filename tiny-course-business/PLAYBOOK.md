@@ -203,9 +203,9 @@ Only Hook 1 per idea in round 1 (£50 is too little to split).
 - Faceless delivery for all three: screen recording or slides + her voice, plus a PDF.
 
 **A. The 1-Hour Faceless Channel Plan, $27**
-- Front end: in one sitting, the buyer picks a niche with the Outlier Method, sets up the channel properly, and leaves with **10 proven video ideas with titles**. Planning stage only, no production.
+- Front end: in one sitting, the buyer picks a niche with the Outlier Method, sets up the channel properly, and learns how to **find unlimited viral video ideas** (the method behind her millions of views). Planning stage only, no production. (Founder changed this from "10 ideas with titles" on 19 Oct 2026.)
   - Why: the Ad Library shows everyone selling tools that *make* videos. Nobody sells *what to make*. FLIP: "AI tools can make the videos. They can't tell you what to make." The quick win is a list of 10 ideas, and the natural next question is "how do I turn these into videos?"
-- Scarcity bonus (month 1): 5 faceless Shorts formats that get views (from the research bump idea; small to make).
+- **No bonus in round 1** (founder's decision). Possible later: monthly bonus (Shorts formats pack or the Script Prompts).
 - Order bump $7: Beginner Script Prompts (already written: `beginner-script-prompts.txt`).
 - Upsell 1 $47: First Video Kit (script → AI voice → edit → thumbnail, first video finished in a weekend).
 - Downsell $19: Title & Thumbnail Templates only.

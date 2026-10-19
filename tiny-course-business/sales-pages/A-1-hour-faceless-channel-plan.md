@@ -10,12 +10,12 @@ Numbers are always written in full: £140,000, 217,000 subscribers, never "140k"
 ## 1. Course name — *Headline block*
 
 # The 1-Hour Faceless Channel Plan
-### Pick your niche, set up your channel and leave with 10 proven video ideas, in one sitting. No face, no filming.
+### Pick your niche, set up your channel and learn how to find unlimited viral video ideas, in one sitting. No face, no filming.
 
 ## 2. Mockup — *Image block*
 
 [Canva: simple cover titled "The 1-Hour Faceless Channel Plan" with a 3-step diagram underneath:
-Pick a niche → Set up the channel → 10 proven video ideas.
+Pick a niche → Set up the channel → Find unlimited viral video ideas.
 Plain colours, readable on a phone.]
 
 ## 3. Problem — *Headline + Text block*
@@ -79,16 +79,15 @@ How does it work? That's what the plan is for, and it's not what most YouTube gu
 In about an hour you will:
 1. Pick a faceless niche that already gets views, using the Outlier Method
 2. Set up your channel the right way, so YouTube knows who to show it to
-3. Leave with **10 proven video ideas with titles**, ready to make
+3. Learn how to find **unlimited viral video ideas**, the same method that got me millions of views
 
 ## 9. Guarantee — *Text block*
 
 If it's not for you, for any reason, email me at [your email] within 14 days and I'll refund you. No questions, no hard feelings.
 
-## 10. Real scarcity — *Text block*
+## 10. Real scarcity
 
-**[Month]-only bonus:** 5 faceless Shorts formats that get views, so you can post something while you work on your long videos.
-Next month's bonus will be different.
+*Skipped in round 1: no bonus yet (founder's decision). Add a monthly bonus later if the numbers justify it.*
 
 ## 11. FAQ — *FAQ block (or Text block)*
 
@@ -96,13 +95,13 @@ Next month's bonus will be different.
 Yes. It's made for complete beginners.
 
 **How much time do I need?**
-About an hour. You'll finish with your niche, your channel and your first 10 ideas.
+About an hour. You'll finish with your niche, your channel and the method for finding viral video ideas.
 
 **Do I need to show my face or use my voice?**
 No. Nothing in this plan needs your face, and you can use an AI voice later.
 
 **Does it teach me how to make the videos?**
-This plan covers the part most people get stuck on: what to make. Once you have your 10 ideas, making them is the easy part.
+This plan covers the part most people get stuck on: what to make. Once you can find ideas that already work, making the videos is the easy part.
 
 **Does it include how to make the videos?**
 No. This plan covers what to make. You'll make the videos after.
@@ -122,8 +121,7 @@ After you buy, you'll get an email with your access [within 48 hours].
 - The 1-Hour Faceless Channel Plan (video training)
 - The Outlier Method for finding video ideas that already get views
 - Channel setup, step by step
-- Your first 10 proven video ideas with titles
-- **[Month]-only bonus:** 5 faceless Shorts formats
+- How to find unlimited viral video ideas, the method behind my millions of views
 - 14-day no-questions refund
 
 **[ Get The 1-Hour Faceless Channel Plan — $27 ]**
@@ -133,7 +131,7 @@ After you buy, you'll get an email with your access [within 48 hours].
 ## Checkout page (systeme.io order form)
 
 - Headline: **The 1-Hour Faceless Channel Plan**
-- Subheadline: Your niche, your channel and 10 proven video ideas, in one sitting.
+- Subheadline: Your niche, your channel and how to find unlimited viral video ideas, in one sitting.
 - Fields: email + first name only. Card (Stripe) + PayPal.
 - No order bump yet.
 

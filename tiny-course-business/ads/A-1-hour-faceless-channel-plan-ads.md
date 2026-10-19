@@ -32,7 +32,7 @@ That channel now has 217,000 subscribers.
 
 I put my method into a one-hour plan.
 
-In one sitting you pick your niche, set up your channel and leave with 10 video ideas that already get views.
+In one sitting you pick your niche, set up your channel and learn how to find unlimited viral video ideas, the same method that got me millions of views.
 
 Get it today for $27:
 [link]
@@ -55,7 +55,7 @@ VS
 3. Still not know what to post
 4. Quit
 
-The one-hour plan that gives you your niche, your channel and 10 video ideas is $27:
+The one-hour plan that shows you how to find unlimited viral video ideas, plus your niche and your channel, is $27:
 [link]
 
 **Text 3: flip**
@@ -69,7 +69,7 @@ I use one simple rule: don't guess what will work. Find what's already working, 
 
 I put that rule into a one-hour plan.
 
-In one sitting you pick your niche, set up your channel and leave with 10 video ideas that already get views.
+In one sitting you pick your niche, set up your channel and learn how to find unlimited viral video ideas, the same method that got me millions of views.
 
 Get it today for $27:
 [link]
@@ -85,7 +85,7 @@ I started a faceless YouTube channel instead, and it only took one hour to plan 
 
 I put that hour into a plan you can follow in one sitting.
 
-You pick your niche, set up your channel and leave with 10 video ideas that already get views.
+You pick your niche, set up your channel and learn how to find unlimited viral video ideas, the same method that got me millions of views.
 
 $27, today:
 [link]
@@ -102,7 +102,7 @@ It now has 217,000 subscribers.
 
 I put my method into a one-hour plan.
 
-In one sitting you pick your niche, set up your channel and leave with 10 video ideas that already get views.
+In one sitting you pick your niche, set up your channel and learn how to find unlimited viral video ideas, the same method that got me millions of views.
 
 Get it today for $27:
 [link]
@@ -112,7 +112,7 @@ Get it today for $27:
 ## 5 headlines (short; question, benefit or pain)
 
 1. Plan your faceless YouTube channel in one hour
-2. Your first 10 video ideas, in one hour
+2. Find unlimited viral video ideas, in one hour
 3. Faceless channel plan: 1 hour, $27
 4. Don't know what to post? Start here
 5. AI can make the video. Who picks the topic?
