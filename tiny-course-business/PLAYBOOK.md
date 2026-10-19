@@ -284,6 +284,8 @@ Decisions 19 Oct 2026: A, B, C products + ladders confirmed. C renamed **What No
 
 Open decisions: slot caps for 1-1.
 
+Ad drafts: `ads/` folder (A written 19 Oct 2026). Style reference = Sergio's own ads: first-person, short lines, "this vs that" list, flip story, price + link last; images = fake X-post cards on bright backgrounds with a yellow highlight. We copy the structure, never his words or images. No earnings claims in ads; "I", not "you", about personal situations.
+
 ## 17. Launch log
 
 | Date | Hook / course name | Pain / awareness stage | Price | Spend | Sales | Revenue | % of spend recovered | Decision |
