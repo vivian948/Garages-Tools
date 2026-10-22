@@ -292,4 +292,4 @@ Ad drafts: `ads/` folder (A written 19 Oct 2026). Style reference = Sergio's own
 
 | Date | Hook / course name | Pain / awareness stage | Price | Spend | Sales | Revenue | % of spend recovered | Decision |
 |---|---|---|---|---|---|---|---|---|
-| | | | | | | | | |
+| ~20 Oct 2026 (3 campaigns, £10/day each) | A: The 1-Hour Faceless Channel Plan | Problem aware (no face, no time) | $27 | £27.90 (21–23 Oct) | 0 | $0 | 0% | Too early (spend ≈ 1.3× price; need 2× ≈ £42). 20,009 impressions, 794 link clicks (CTR ~3.97%, ~£0.035/click), 588 landing page views, 0 purchases. Check systeme.io funnel stats + test purchase now. |
