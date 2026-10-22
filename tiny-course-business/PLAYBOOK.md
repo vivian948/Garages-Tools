@@ -303,4 +303,4 @@ Ad drafts: `ads/` folder (A written 19 Oct 2026). Style reference = Sergio's own
 
 **22 Oct 2026 fixes:** Purchase event now fires on the thank-you page (footer script, value 27 USD; built-in systeme.io 'Purchase' setting sends nothing, left as is). Verified: PageView + Purchase accepted by Meta. Old 3 campaigns to be paused.
 **Run 2 plan (A, tier-1 audience):** one campaign, Sales, pixel 'vivian', Purchase, cost goal £20, £10/day. Locations: UK, CA, IE, NZ, NL, DE, SE, NO, DK, FI, BE, CH, AT, AE, QA, KW (not US, AU, IN, TW, SG). English, 25–55. Facebook + Instagram only (no Audience Network/Threads). All images in one ad set, 5 texts + 5 headlines. If delivery is near zero after 24–48h, raise cost goal 20–30%. Judge after spend ≥ 2× price (≈ £42), ideally 5×. UK/EU: cookie consent may hide events from Meta; compare with systeme.io sales.
-
+**22 Oct 2026, pixel verified:** Events Manager > Test events on the live thank-you page showed PageView + Purchase both Processed (browser, manual setup). Domain vivjohnson.com confirmed as hers. Conversions API left off (optional, later). Next: build run 2 campaign, founder approves before publishing.
