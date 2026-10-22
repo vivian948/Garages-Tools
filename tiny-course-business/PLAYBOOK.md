@@ -301,3 +301,6 @@ Ad drafts: `ads/` folder (A written 19 Oct 2026). Style reference = Sergio's own
 - Only 3 of the 5 images were used, one per campaign; best CTR: white-background headline image (5.15%).
 - Fix before spending more: (1) confirm Purchase event reaches Meta (Pixel Helper on thank-you page + Events Manager), (2) target higher-income English-speaking countries, exclude India, (3) one campaign with all 5 images, (4) turn off Audience Network/Threads.
 
+**22 Oct 2026 fixes:** Purchase event now fires on the thank-you page (footer script, value 27 USD; built-in systeme.io 'Purchase' setting sends nothing, left as is). Verified: PageView + Purchase accepted by Meta. Old 3 campaigns to be paused.
+**Run 2 plan (A, tier-1 audience):** one campaign, Sales, pixel 'vivian', Purchase, cost goal £20, £10/day. Locations: UK, CA, IE, NZ, NL, DE, SE, NO, DK, FI, BE, CH, AT, AE, QA, KW (not US, AU, IN, TW, SG). English, 25–55. Facebook + Instagram only (no Audience Network/Threads). All images in one ad set, 5 texts + 5 headlines. If delivery is near zero after 24–48h, raise cost goal 20–30%. Judge after spend ≥ 2× price (≈ £42), ideally 5×. UK/EU: cookie consent may hide events from Meta; compare with systeme.io sales.
+
