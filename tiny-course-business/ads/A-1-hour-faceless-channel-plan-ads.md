@@ -168,3 +168,16 @@ Card photo = founder's Instagram profile photo; name "Vivian"; handle "@vivianai
 - Budget: about £50 for this idea, ad account currency.
 - Publish, then test the full funnel on desktop, tablet and phone (links, a real purchase, pixel firing) before judging anything.
 - Judge only after spend reaches 2–5× the price (playbook section 7).
+
+---
+
+## Run 2 pairing (3 ads first, 22 Oct 2026)
+
+| Ad | Image | Primary text | Headline |
+|---|---|---|---|
+| Ad 1 | Pink blossom ("Bought every side hustle…") | Text 1 (founder's story) | Nothing worked. Then I found faceless. |
+| Ad 2 | White "Who picks your video topic?" | Text 3 (flip) | Plan your faceless YouTube channel in one hour |
+| Ad 3 | Blue doodle list ("Here's what's working for me") | Text 2 (this vs that) | Find unlimited viral video ideas, in one hour |
+
+One text + one headline per ad so results show which angle works. Description: The 1-Hour Faceless Channel Plan. Button: Learn More. Images 4 and 5 (texts 4 and 5) held back for later.
+
