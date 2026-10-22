@@ -292,4 +292,12 @@ Ad drafts: `ads/` folder (A written 19 Oct 2026). Style reference = Sergio's own
 
 | Date | Hook / course name | Pain / awareness stage | Price | Spend | Sales | Revenue | % of spend recovered | Decision |
 |---|---|---|---|---|---|---|---|---|
-| ~20 Oct 2026 (3 campaigns, £10/day each) | A: The 1-Hour Faceless Channel Plan | Problem aware (no face, no time) | $27 | £27.90 (21–23 Oct) | 0 | $0 | 0% | Too early (spend ≈ 1.3× price; need 2× ≈ £42). 20,009 impressions, 794 link clicks (CTR ~3.97%, ~£0.035/click), 588 landing page views, 0 purchases. Check systeme.io funnel stats + test purchase now. |
+| 21–22 Oct 2026 (3 campaigns x 1 ad, £10/day each, cost cap £20) | A: The 1-Hour Faceless Channel Plan | Problem aware (no face, no time) | $27 | £28.42 | 0 real (1 test) | $0 | 0% | NOT a valid read of the offer: Meta has no Purchase signal (ad sets warn 'no conversion events'), 45% of spend went to India, top 15 countries all low-income, UK < £0.22. Fix pixel + audience, then retest. |
+
+**Learnings from run 1 (22 Oct 2026):**
+- 20,414 impressions, 805 link clicks (CTR ~3.9%, ~£0.035/click), 597 landing page views, 853 systeme.io page views, ~15 order-form views, 0 real sales. Checkout/PayPal/thank-you work (founder test purchase).
+- Money-led hook + worldwide + no purchase signal = Meta buys the cheapest clicks: India £12.87 of £28.39, then Nigeria, Indonesia, Philippines, Uzbekistan, Pakistan, Bangladesh, Nepal. 179 countries delivered.
+- Instagram Reels = 72% of clicks (cheap, low intent). Audience Network and Threads clicks mostly never load the page.
+- Only 3 of the 5 images were used, one per campaign; best CTR: white-background headline image (5.15%).
+- Fix before spending more: (1) confirm Purchase event reaches Meta (Pixel Helper on thank-you page + Events Manager), (2) target higher-income English-speaking countries, exclude India, (3) one campaign with all 5 images, (4) turn off Audience Network/Threads.
+
