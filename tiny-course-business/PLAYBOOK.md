@@ -85,7 +85,7 @@ Structure, top to bottom:
 - Ad set: website conversion, your pixel, **Purchase**.
   - **Cost per result goal / bid cap = course price** (later: price + 10%).
   - Daily budget: anything; he uses 250 (won't spend it all because of the cap). Suggested **$5–$50/day**. Budget = time to result.
-  - **Locations: all countries, excluding the US** (separate US ad set later).
+  - **Locations: all countries, excluding the US** (round 1 for A also excludes **Australia, Taiwan and Singapore**: Meta requires advertiser/payer verification there, and Australia flags "financial services" because of income wording. Verify and add back only if the offer sells.) (separate US ad set later).
   - Audience suggestions: broad hints (famous people, general interests) or blank.
   - Placements: all (Advantage+).
 - Ads: **5 primary texts** (copied from the sales page) + **5 headlines** + optional descriptions.

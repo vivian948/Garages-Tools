@@ -164,7 +164,7 @@ Card photo = founder's Instagram profile photo; name "Vivian"; handle "@vivianai
 ## Setup reminder (course settings)
 
 - Sales campaign, Purchase event, cost cap = $27.
-- All countries excluding the US.
+- All countries excluding the US, Australia, Taiwan and Singapore (verification required there; add back later if the offer sells).
 - Budget: about £50 for this idea, ad account currency.
 - Publish, then test the full funnel on desktop, tablet and phone (links, a real purchase, pixel firing) before judging anything.
 - Judge only after spend reaches 2–5× the price (playbook section 7).
